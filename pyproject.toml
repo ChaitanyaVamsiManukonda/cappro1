@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "capstone-etl-pipeline"
+version = "1.0.0"
+description = "E-Commerce ETL Pipeline — Medallion Architecture (Bronze S3 -> Silver/Gold Snowflake)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "python-dotenv",
+    "SQLAlchemy",
+    "cryptography",
+]
+
+[project.optional-dependencies]
+cloud = [
+    "snowflake-sqlalchemy",
+    "s3fs",
+]
+dev = [
+    "pytest>=7.4,<9",
+    "faker",
+]
+
+[tool.setuptools.packages.find]
+include = ["config*", "src*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.pyright]
+# Tell Pyright/Pylance that THIS directory is the import root.
+# This resolves "from config.settings" and "from src.etl_helpers".
+pythonPlatform = "All"

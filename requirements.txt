@@ -1,0 +1,9 @@
+pandas
+numpy
+faker
+pytest
+python-dotenv
+SQLAlchemy
+snowflake-sqlalchemy
+cryptography
+s3fs

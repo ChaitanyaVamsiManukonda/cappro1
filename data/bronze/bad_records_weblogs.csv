@@ -1,0 +1,2018 @@
+log_id,user_id,product_id,session_id,action,timestamp,reject_reason
+87,,470,sess_1424,purchase,2026-05-30 19:56:11.178635,Missing user_id
+158,,335,sess_4982,add_to_cart,2025-10-26 18:00:42.178635,Missing user_id
+249,,1035,sess_1412,add_to_cart,2026-02-17 16:00:48.178635,Missing user_id
+269,,520,sess_1766,view,2025-12-23 17:42:25.178635,Missing user_id
+316,,1017,sess_843,view,2026-04-08 15:23:38.178635,Missing user_id
+334,,795,sess_3960,view,2026-02-14 19:47:16.178635,Missing user_id
+340,,808,sess_352,add_to_cart,2025-07-13 18:31:31.178635,Missing user_id
+356,,370,sess_1038,purchase,2026-04-28 11:58:56.178635,Missing user_id
+367,,272,sess_3046,add_to_cart,invalid_timestamp,Missing user_id
+370,,1029,sess_1930,view,2026-03-14 08:50:44.178635,Missing user_id
+387,,909,sess_354,view,2026-05-23 21:38:58.178635,Missing user_id
+397,,85,sess_3234,purchase,2025-10-31 10:33:15.178635,Missing user_id
+415,,212,sess_238,add_to_cart,2025-08-31 23:00:45.178635,Missing user_id
+508,,402,sess_753,add_to_cart,2025-07-18 04:17:33.181409,Missing user_id
+513,,300,sess_469,purchase,2025-08-15 06:50:24.181409,Missing user_id
+514,,767,,purchase,2025-06-25 06:05:00.181409,Missing user_id
+563,,530,sess_768,add_to_cart,2025-12-05 10:45:50.181409,Missing user_id
+585,,1108,sess_200,purchase,2025-11-20 07:28:57.181409,Missing user_id
+593,,36,sess_3322,add_to_cart,2026-01-03 21:21:23.181409,Missing user_id
+612,,897,sess_733,view,2025-11-27 08:50:22.181409,Missing user_id
+674,,323,sess_2601,add_to_cart,2025-06-18 02:41:39.181409,Missing user_id
+701,,283,sess_2524,view,2025-07-30 22:06:50.181409,Missing user_id
+761,,471,sess_4310,view,2025-10-12 06:45:37.181409,Missing user_id
+790,,768,sess_2263,view,2026-05-05 12:05:33.181409,Missing user_id
+806,,1158,sess_4358,view,2026-02-02 22:04:04.181409,Missing user_id
+832,,1144,sess_369,add_to_cart,2026-05-20 01:37:56.181409,Missing user_id
+852,,1182,sess_2178,view,2026-03-02 21:38:14.181409,Missing user_id
+856,,275,,purchase,2025-11-16 03:13:34.181409,Missing user_id
+861,,766,,purchase,2025-10-02 16:30:50.181409,Missing user_id
+903,,221,,add_to_cart,2025-07-21 02:05:49.181409,Missing user_id
+904,,548,sess_753,purchase,2025-08-23 14:46:28.181409,Missing user_id
+926,,927,,purchase,2025-08-26 13:20:54.181409,Missing user_id
+931,,638,sess_2789,purchase,2025-07-14 07:39:55.181409,Missing user_id
+936,,1163,sess_119,view,2025-10-21 08:06:53.181409,Missing user_id
+972,,4,sess_4159,add_to_cart,2026-03-15 17:53:17.183414,Missing user_id
+997,,520,sess_4409,add_to_cart,2026-05-14 23:24:26.183414,Missing user_id
+1015,,381,sess_4713,add_to_cart,2025-11-06 07:07:00.183414,Missing user_id
+1039,,726,sess_3813,add_to_cart,2026-02-03 17:26:19.183414,Missing user_id
+1043,,299,sess_3699,view,2026-02-04 06:36:07.183414,Missing user_id
+1085,,939,sess_3855,add_to_cart,2025-11-02 00:55:09.183414,Missing user_id
+1093,,17,sess_846,add_to_cart,invalid_timestamp,Missing user_id
+1115,,598,sess_234,add_to_cart,2026-02-17 00:55:51.183414,Missing user_id
+1126,,31,sess_2537,purchase,2026-06-11 07:10:21.183414,Missing user_id
+1130,,1002,sess_2054,purchase,2026-04-29 20:46:10.183414,Missing user_id
+1132,,1004,sess_3138,view,2026-05-02 00:08:19.183414,Missing user_id
+1138,,172,sess_1677,add_to_cart,2025-08-10 16:36:57.183414,Missing user_id
+1143,,583,sess_3007,purchase,2026-06-03 11:13:56.183414,Missing user_id
+1158,,1013,sess_3069,view,2026-03-20 22:41:45.183414,Missing user_id
+1165,,500,sess_2212,purchase,2025-10-06 03:53:07.183414,Missing user_id
+1167,,1154,sess_93,view,2025-09-19 21:23:28.183414,Missing user_id
+1172,,1084,sess_3055,view,2026-03-15 08:21:30.183414,Missing user_id
+1176,,237,sess_3923,view,invalid_timestamp,Missing user_id
+1182,,208,sess_3577,purchase,2026-03-01 09:12:04.183414,Missing user_id
+1207,,951,,view,2026-04-24 20:26:28.183414,Missing user_id
+1256,,361,sess_2603,add_to_cart,2026-04-20 09:56:46.183414,Missing user_id
+1278,,381,sess_4266,purchase,2025-07-25 23:36:49.183414,Missing user_id
+1286,,655,sess_1562,add_to_cart,2025-09-23 18:44:50.183414,Missing user_id
+1289,,6,sess_1372,add_to_cart,2025-06-19 00:44:53.183414,Missing user_id
+1301,,422,sess_713,purchase,2025-11-18 15:01:43.183414,Missing user_id
+1319,,377,sess_3956,purchase,invalid_timestamp,Missing user_id
+1325,,680,sess_457,add_to_cart,2026-03-08 04:39:47.183414,Missing user_id
+1326,,380,sess_33,add_to_cart,2025-08-19 21:04:17.183414,Missing user_id
+1349,,1096,sess_387,add_to_cart,2026-04-11 17:41:42.183414,Missing user_id
+1361,,1132,sess_293,view,2026-01-27 16:46:56.183414,Missing user_id
+1363,,1033,sess_495,purchase,2026-01-20 23:01:46.183414,Missing user_id
+1393,,839,sess_2883,view,2026-03-01 21:15:22.183414,Missing user_id
+1404,,25,sess_3452,add_to_cart,2026-03-31 15:27:56.183414,Missing user_id
+1426,,813,sess_127,view,2025-09-13 06:28:13.183414,Missing user_id
+1445,,967,sess_1709,add_to_cart,invalid_timestamp,Missing user_id
+1459,,504,sess_4636,view,2025-12-04 10:17:33.185418,Missing user_id
+1479,,619,sess_2132,view,2026-05-14 20:13:58.185418,Missing user_id
+1503,,911,sess_4945,purchase,2025-09-29 05:58:05.185418,Missing user_id
+1511,,559,sess_4488,add_to_cart,2025-09-28 08:25:12.185418,Missing user_id
+1513,,476,sess_2247,view,2025-12-26 02:56:11.185418,Missing user_id
+1516,,294,sess_640,view,2025-08-24 17:23:07.185418,Missing user_id
+1524,,1051,sess_3253,add_to_cart,2026-04-30 00:31:48.185418,Missing user_id
+1525,,967,,add_to_cart,2025-10-21 15:25:02.185418,Missing user_id
+1556,,1025,sess_1794,add_to_cart,2025-08-22 04:32:16.185418,Missing user_id
+1559,,55,sess_4130,view,2025-08-05 08:33:17.185418,Missing user_id
+1561,,533,sess_1749,view,2025-12-13 00:37:00.185418,Missing user_id
+1588,,1019,sess_439,purchase,2026-04-10 09:03:57.185418,Missing user_id
+1613,,473,sess_3574,purchase,2025-12-10 01:56:55.185418,Missing user_id
+1653,,728,sess_3782,purchase,2025-06-26 16:08:08.185418,Missing user_id
+1665,,366,sess_3753,add_to_cart,2025-08-25 10:20:38.185418,Missing user_id
+1677,,1036,sess_2081,purchase,invalid_timestamp,Missing user_id
+1680,,954,sess_2861,add_to_cart,2025-11-30 15:20:03.185418,Missing user_id
+1693,,731,sess_1540,add_to_cart,2025-12-05 07:57:31.185418,Missing user_id
+1705,,540,sess_240,purchase,2025-07-18 00:57:00.185418,Missing user_id
+1730,,217,sess_2991,add_to_cart,2025-11-20 05:28:35.186925,Missing user_id
+1757,,902,sess_3956,add_to_cart,2026-03-25 23:05:07.186925,Missing user_id
+1760,,952,sess_3665,add_to_cart,2026-01-21 02:02:14.186925,Missing user_id
+1767,,484,sess_2128,view,2025-10-26 13:38:32.186925,Missing user_id
+1795,,137,sess_3287,purchase,2025-06-20 23:07:38.186925,Missing user_id
+1796,,1091,sess_4275,purchase,2025-12-30 04:47:32.186925,Missing user_id
+1825,,558,sess_3905,add_to_cart,2025-07-01 12:41:17.186925,Missing user_id
+1884,,998,sess_3308,add_to_cart,2026-03-11 09:49:18.186925,Missing user_id
+1925,,198,sess_2382,view,2026-04-13 20:51:47.186925,Missing user_id
+1927,,128,sess_3633,view,2025-11-17 10:04:05.186925,Missing user_id
+1931,,263,sess_1194,view,2026-05-13 15:28:18.186925,Missing user_id
+1944,,551,sess_4445,purchase,2025-06-30 08:28:00.186925,Missing user_id
+1953,,623,sess_2800,add_to_cart,2026-01-11 06:43:43.186925,Missing user_id
+1967,,872,sess_2429,add_to_cart,2025-12-05 14:32:27.186925,Missing user_id
+1972,,1074,sess_1015,add_to_cart,2026-04-24 08:08:24.186925,Missing user_id
+1979,,1017,sess_2275,view,2025-09-20 04:51:48.186925,Missing user_id
+2010,,837,sess_616,view,2026-05-06 13:21:50.186925,Missing user_id
+2052,,219,sess_464,purchase,2026-01-10 19:44:52.186925,Missing user_id
+2058,,519,,purchase,2025-11-05 11:58:30.186925,Missing user_id
+2077,,1063,sess_2323,view,2025-11-20 15:04:50.186925,Missing user_id
+2144,,1124,sess_318,purchase,invalid_timestamp,Missing user_id
+2165,,162,sess_2657,add_to_cart,2026-03-03 12:21:02.186925,Missing user_id
+2214,,243,sess_2531,purchase,2025-06-11 18:49:37.186925,Missing user_id
+2236,,520,sess_4233,view,2025-12-17 19:52:04.186925,Missing user_id
+2253,,266,sess_1998,view,2025-12-09 15:02:49.186925,Missing user_id
+2257,,435,sess_1370,view,2025-09-08 01:39:01.186925,Missing user_id
+2263,,737,sess_1848,add_to_cart,2025-09-21 16:39:35.186925,Missing user_id
+2273,,466,sess_876,add_to_cart,2026-02-09 04:57:43.186925,Missing user_id
+2275,,156,sess_3285,view,2025-11-04 08:00:32.186925,Missing user_id
+2296,,835,sess_4789,purchase,2025-10-02 01:07:37.186925,Missing user_id
+2329,,646,sess_567,view,2025-07-16 01:40:38.186925,Missing user_id
+2336,,434,sess_4110,purchase,2026-03-18 01:18:37.186925,Missing user_id
+2337,,960,sess_2339,view,2026-04-18 06:46:53.186925,Missing user_id
+2397,,1132,,add_to_cart,2025-07-20 02:33:46.186925,Missing user_id
+2420,,430,sess_2876,view,2026-04-08 11:38:19.186925,Missing user_id
+2424,,1097,sess_4615,add_to_cart,2025-08-18 12:20:16.186925,Missing user_id
+2429,,280,sess_1217,view,2026-01-06 06:45:07.186925,Missing user_id
+2458,,169,sess_4709,add_to_cart,2025-11-21 08:21:05.186925,Missing user_id
+2475,,390,sess_1450,view,2025-06-30 10:05:54.186925,Missing user_id
+2514,,888,sess_1186,view,2025-07-26 11:04:40.186925,Missing user_id
+2540,,917,sess_1265,purchase,2025-12-27 13:40:56.186925,Missing user_id
+2553,,1192,sess_3101,view,2025-08-11 12:47:50.186925,Missing user_id
+2579,,724,sess_736,view,2025-09-25 00:18:05.186925,Missing user_id
+2689,,989,sess_4821,view,2025-09-18 01:30:18.186925,Missing user_id
+2721,,617,sess_703,view,2025-12-25 06:46:35.186925,Missing user_id
+2727,,456,sess_143,view,2025-06-16 19:24:31.186925,Missing user_id
+2752,,21,sess_604,view,2026-04-25 19:33:06.186925,Missing user_id
+2757,,215,sess_2942,view,2025-09-06 11:28:51.186925,Missing user_id
+2778,,496,sess_1119,purchase,invalid_timestamp,Missing user_id
+2801,,368,sess_2580,view,2025-12-26 12:15:31.186925,Missing user_id
+2808,,1111,,add_to_cart,2026-05-20 02:30:51.186925,Missing user_id
+2822,,824,sess_2579,purchase,2025-06-20 03:27:37.186925,Missing user_id
+2824,,995,sess_684,view,2025-09-10 05:30:32.186925,Missing user_id
+2836,,1024,sess_1109,add_to_cart,2025-09-06 08:20:21.186925,Missing user_id
+2840,,445,sess_2672,view,2026-05-13 01:29:18.186925,Missing user_id
+2850,,446,sess_2066,purchase,2026-05-21 10:49:27.186925,Missing user_id
+2854,,1149,sess_4935,view,2026-04-22 04:51:07.186925,Missing user_id
+2898,,172,sess_2554,add_to_cart,2025-10-08 01:51:44.186925,Missing user_id
+2907,,48,sess_3660,add_to_cart,2025-07-05 19:16:49.186925,Missing user_id
+2974,,439,sess_858,view,2026-04-13 10:25:44.186925,Missing user_id
+3013,,379,sess_2434,add_to_cart,2025-12-09 13:44:18.186925,Missing user_id
+3024,,647,sess_2914,add_to_cart,2026-06-11 08:06:12.186925,Missing user_id
+3037,,693,sess_2586,view,2025-06-26 11:44:16.186925,Missing user_id
+3047,,30,sess_1482,add_to_cart,2026-05-02 01:42:10.186925,Missing user_id
+3132,,1124,,purchase,2025-11-08 17:50:56.186925,Missing user_id
+3133,,453,sess_185,purchase,2025-07-02 11:13:03.186925,Missing user_id
+3135,,387,sess_2800,add_to_cart,2026-06-07 21:25:34.186925,Missing user_id
+3160,,990,,view,2026-04-11 14:46:50.186925,Missing user_id
+3168,,328,sess_1351,purchase,2025-06-26 07:00:42.186925,Missing user_id
+3197,,248,,purchase,2025-11-16 18:44:10.186925,Missing user_id
+3207,,876,sess_4386,purchase,2025-09-23 08:47:59.186925,Missing user_id
+3230,,119,sess_1149,purchase,invalid_timestamp,Missing user_id
+3249,,640,sess_2016,view,2025-07-11 04:17:01.186925,Missing user_id
+3250,,816,sess_3576,purchase,2026-04-26 20:08:27.186925,Missing user_id
+3270,,362,sess_4090,add_to_cart,2026-06-09 21:39:00.186925,Missing user_id
+3277,,1029,sess_2167,purchase,2025-06-22 23:51:20.186925,Missing user_id
+3325,,269,sess_820,purchase,2026-04-01 14:05:34.186925,Missing user_id
+3339,,670,sess_3627,view,2026-05-07 14:13:02.186925,Missing user_id
+3349,,861,,view,2025-09-20 19:59:47.186925,Missing user_id
+3353,,357,sess_3336,add_to_cart,2025-07-24 09:09:27.186925,Missing user_id
+3358,,530,sess_158,add_to_cart,2026-05-08 00:49:42.186925,Missing user_id
+3377,,955,sess_1318,add_to_cart,2025-10-05 10:00:56.186925,Missing user_id
+3383,,689,sess_1683,add_to_cart,2025-06-11 01:01:50.186925,Missing user_id
+3407,,640,sess_3397,view,2026-01-20 14:47:18.186925,Missing user_id
+3408,,739,sess_1702,purchase,2026-06-03 16:10:58.186925,Missing user_id
+3413,,212,sess_3279,view,2025-09-11 18:30:00.186925,Missing user_id
+3421,,222,sess_1709,purchase,2026-01-19 19:47:43.186925,Missing user_id
+3428,,1009,,add_to_cart,2025-08-02 15:25:19.186925,Missing user_id
+3442,,663,sess_3790,view,2025-12-16 19:16:59.186925,Missing user_id
+3447,,1005,sess_689,purchase,2025-09-25 05:20:41.186925,Missing user_id
+3472,,1085,sess_1069,add_to_cart,2025-06-13 16:33:57.186925,Missing user_id
+3498,,988,sess_1092,add_to_cart,2025-06-29 03:32:52.186925,Missing user_id
+3535,,1089,sess_2626,add_to_cart,2025-06-28 05:02:04.186925,Missing user_id
+3554,,605,sess_4489,view,2026-03-25 18:03:56.186925,Missing user_id
+3571,,402,sess_2957,add_to_cart,2025-07-19 10:40:01.186925,Missing user_id
+3590,,273,sess_1931,add_to_cart,2025-12-27 10:14:46.186925,Missing user_id
+3612,,1189,sess_4636,purchase,2026-05-19 02:08:15.186925,Missing user_id
+3634,,247,sess_2287,purchase,2026-05-02 10:11:09.186925,Missing user_id
+3643,,16,sess_1878,purchase,invalid_timestamp,Missing user_id
+3670,,966,sess_1311,view,2026-01-06 15:10:45.186925,Missing user_id
+3676,,1,,add_to_cart,2025-09-22 22:42:11.186925,Missing user_id
+3677,,847,sess_1100,view,2026-02-12 00:58:06.186925,Missing user_id
+3723,,581,sess_3256,purchase,invalid_timestamp,Missing user_id
+3742,,1013,,add_to_cart,2026-02-11 11:34:42.195433,Missing user_id
+3777,,50,sess_3360,add_to_cart,2026-02-17 23:06:36.195433,Missing user_id
+3795,,454,sess_3950,view,2025-08-28 18:56:22.195433,Missing user_id
+3815,,1128,sess_2390,view,2026-01-05 00:28:10.195433,Missing user_id
+3890,,460,sess_1713,add_to_cart,2025-07-02 19:07:40.197951,Missing user_id
+3921,,896,sess_1683,add_to_cart,2025-11-23 19:18:55.197951,Missing user_id
+3955,,1074,sess_2037,purchase,2025-12-24 10:55:05.197951,Missing user_id
+3967,,1091,sess_3064,purchase,2026-01-22 09:23:45.197951,Missing user_id
+3981,,777,sess_3956,add_to_cart,2025-09-26 12:37:43.197951,Missing user_id
+3997,,242,sess_1381,purchase,2025-09-30 04:30:42.197951,Missing user_id
+4001,,1154,sess_3779,purchase,2025-08-10 02:04:57.197951,Missing user_id
+4049,,459,sess_1224,view,2025-12-01 00:33:11.197951,Missing user_id
+4060,,544,sess_3143,add_to_cart,2025-11-21 06:03:44.199974,Missing user_id
+4065,,196,sess_3600,add_to_cart,2025-08-12 01:42:49.199974,Missing user_id
+4146,,119,sess_104,view,2025-10-30 04:36:27.199974,Missing user_id
+4181,,1097,sess_875,view,2025-08-24 01:50:47.199974,Missing user_id
+4228,,752,sess_3445,purchase,2026-03-06 03:30:30.199974,Missing user_id
+4233,,653,sess_4613,purchase,2026-03-16 19:47:01.199974,Missing user_id
+4239,,13,sess_1745,view,2025-11-10 18:29:28.199974,Missing user_id
+4240,,65,,view,2025-10-26 22:15:13.199974,Missing user_id
+4260,,155,sess_4137,view,2025-09-12 19:21:49.199974,Missing user_id
+4296,,401,sess_491,add_to_cart,2025-10-25 04:20:12.202536,Missing user_id
+4297,,205,sess_4128,add_to_cart,2025-07-24 08:16:43.202536,Missing user_id
+4311,,616,sess_971,add_to_cart,2025-10-30 22:50:46.202536,Missing user_id
+4326,,427,sess_4565,purchase,2026-06-03 20:17:41.202536,Missing user_id
+4351,,702,sess_952,view,2025-10-18 00:43:08.203543,Missing user_id
+4379,,1060,sess_2855,view,2025-11-26 18:38:39.203543,Missing user_id
+4381,,1173,sess_1301,view,2025-07-02 09:01:35.203543,Missing user_id
+4448,,190,,purchase,2026-03-30 11:28:49.203543,Missing user_id
+4467,,420,sess_2879,purchase,2025-08-12 03:34:42.203543,Missing user_id
+4472,,748,sess_424,purchase,2025-12-23 03:49:58.203543,Missing user_id
+4484,,925,sess_901,purchase,2025-07-13 12:35:52.203543,Missing user_id
+4541,,196,sess_4505,view,invalid_timestamp,Missing user_id
+4544,,1030,sess_132,view,2025-10-29 19:18:35.203543,Missing user_id
+4572,,1124,sess_1023,view,2025-06-20 12:27:24.203543,Missing user_id
+4595,,533,sess_1758,purchase,2025-06-28 01:12:50.207677,Missing user_id
+4604,,1048,sess_3932,view,2026-02-02 13:38:09.207677,Missing user_id
+4605,,429,sess_819,add_to_cart,2025-07-17 18:53:00.207677,Missing user_id
+4616,,437,sess_2685,add_to_cart,2026-04-02 15:39:10.207677,Missing user_id
+4681,,212,sess_4502,purchase,2025-12-05 22:28:56.207677,Missing user_id
+4682,,594,sess_3555,purchase,2025-12-11 02:52:51.207677,Missing user_id
+4734,,1072,sess_2405,purchase,2025-12-14 17:00:41.207677,Missing user_id
+4762,,1008,sess_554,purchase,2025-07-14 04:11:56.209185,Missing user_id
+4763,,309,sess_2374,view,2025-06-25 07:10:55.209185,Missing user_id
+4826,,1009,sess_1986,add_to_cart,2026-05-11 10:05:28.209185,Missing user_id
+4845,,58,sess_2701,purchase,2025-08-16 20:35:14.209185,Missing user_id
+4863,,607,sess_1482,view,2025-11-05 12:54:04.209185,Missing user_id
+4871,,1033,sess_4725,purchase,2026-01-19 12:13:53.209185,Missing user_id
+4872,,229,sess_2065,purchase,2026-04-14 01:27:24.209185,Missing user_id
+4911,,1046,sess_2095,view,2025-08-09 19:12:06.209185,Missing user_id
+4912,,751,sess_3341,add_to_cart,2025-11-03 17:58:59.209185,Missing user_id
+4919,,408,sess_2959,purchase,2025-07-13 18:00:37.209185,Missing user_id
+4961,,295,sess_2660,view,2025-11-11 12:30:59.209185,Missing user_id
+4980,,265,sess_2232,view,2025-08-28 07:26:04.209185,Missing user_id
+4984,,632,sess_527,view,2026-02-24 08:42:58.209185,Missing user_id
+4997,,425,sess_3247,purchase,2026-04-02 16:35:20.209185,Missing user_id
+5027,,346,sess_3761,purchase,2026-06-09 11:03:50.209185,Missing user_id
+5031,,614,sess_443,add_to_cart,2026-01-25 18:50:20.209185,Missing user_id
+5060,,50,sess_2433,purchase,2026-05-14 14:22:22.209185,Missing user_id
+5066,,1052,sess_4620,purchase,2026-01-12 10:52:20.209185,Missing user_id
+5111,,1139,sess_448,purchase,2026-01-20 13:54:33.209185,Missing user_id
+5116,,327,sess_3381,purchase,2025-12-16 13:20:50.209185,Missing user_id
+5127,,192,sess_2839,add_to_cart,2026-04-24 15:42:49.209185,Missing user_id
+5136,,19,sess_2727,view,2026-04-29 11:42:35.209185,Missing user_id
+5140,,297,sess_4662,purchase,2026-02-28 08:50:21.209185,Missing user_id
+5152,,944,sess_3687,purchase,2026-04-01 01:41:54.209185,Missing user_id
+5189,,121,sess_4377,add_to_cart,2025-11-21 11:09:59.209185,Missing user_id
+5191,,35,sess_4057,purchase,2025-10-07 15:21:57.209185,Missing user_id
+5215,,4,sess_1717,add_to_cart,2025-09-04 17:32:19.209185,Missing user_id
+5263,,923,sess_2932,view,2026-04-21 01:26:34.211509,Missing user_id
+5278,,893,sess_1706,add_to_cart,2026-01-21 11:30:59.211509,Missing user_id
+5319,,964,sess_806,view,2026-06-03 12:07:06.211509,Missing user_id
+5331,,378,sess_4628,add_to_cart,2026-04-04 17:30:51.211509,Missing user_id
+5369,,1087,sess_4760,purchase,2025-06-16 14:22:03.212022,Missing user_id
+5398,,33,sess_1207,purchase,2026-04-09 08:12:59.212022,Missing user_id
+5421,,696,sess_3243,purchase,2025-12-26 17:56:22.212022,Missing user_id
+5449,,534,sess_852,add_to_cart,2025-06-14 08:03:51.212022,Missing user_id
+5457,,377,sess_4341,add_to_cart,2025-11-10 20:01:50.212022,Missing user_id
+5471,,1095,sess_3379,view,2026-02-05 09:17:54.212022,Missing user_id
+5483,,726,sess_2703,purchase,2025-09-16 11:17:14.212022,Missing user_id
+5504,,38,sess_4809,view,2025-07-15 10:54:45.212022,Missing user_id
+5588,,1173,sess_1770,view,2025-11-23 14:57:36.212022,Missing user_id
+5648,,112,sess_3723,view,2025-06-25 13:56:49.212022,Missing user_id
+5670,,623,,view,2025-07-10 00:54:46.212022,Missing user_id
+5686,,351,sess_1558,view,2025-07-02 13:07:37.212022,Missing user_id
+5700,,1192,sess_2177,add_to_cart,2025-11-25 03:47:59.212022,Missing user_id
+5709,,1115,sess_3017,view,2026-05-21 14:22:01.212022,Missing user_id
+5710,,304,sess_2208,add_to_cart,2025-07-17 03:01:34.212022,Missing user_id
+5711,,702,sess_3386,view,2025-11-30 17:10:49.212022,Missing user_id
+5733,,1018,sess_566,view,2026-06-04 18:42:06.212022,Missing user_id
+5739,,581,,view,2026-01-05 08:22:58.212022,Missing user_id
+5744,,1006,,purchase,2025-07-08 11:39:17.212022,Missing user_id
+5747,,465,sess_2174,add_to_cart,2026-05-08 05:51:29.212022,Missing user_id
+5751,,200,sess_909,add_to_cart,2026-05-15 02:18:02.212022,Missing user_id
+5764,,743,sess_1650,view,2025-09-20 12:17:23.212022,Missing user_id
+5781,,965,sess_922,purchase,2025-07-14 22:53:55.212022,Missing user_id
+5788,,843,sess_269,view,2026-01-16 15:57:15.212022,Missing user_id
+5789,,523,sess_2576,purchase,2026-02-26 13:16:02.212022,Missing user_id
+5803,,371,sess_4865,add_to_cart,2026-01-09 10:20:39.212022,Missing user_id
+5853,,1017,sess_4697,purchase,invalid_timestamp,Missing user_id
+5898,,981,sess_2781,add_to_cart,2025-08-29 17:36:08.214026,Missing user_id
+5907,,629,,add_to_cart,2025-07-05 17:07:40.214026,Missing user_id
+5931,,944,sess_4019,add_to_cart,2026-01-18 00:32:01.214026,Missing user_id
+5954,,341,sess_1942,purchase,2026-01-25 00:02:59.214026,Missing user_id
+5973,,851,sess_4251,add_to_cart,2025-09-22 17:39:10.214026,Missing user_id
+6025,,333,sess_45,purchase,2026-03-28 14:53:33.214026,Missing user_id
+6103,,165,sess_4007,view,2025-12-05 11:03:33.214026,Missing user_id
+6124,,416,sess_1448,purchase,2025-11-18 23:09:43.214026,Missing user_id
+6129,,293,sess_140,view,2026-02-08 06:49:49.214026,Missing user_id
+6,,146,sess_4253,purchase,2025-09-25 02:09:30.214026,Missing user_id
+6178,,1170,sess_636,view,2025-10-05 21:07:19.214026,Missing user_id
+6190,,9,sess_3957,view,2025-10-07 10:52:40.214026,Missing user_id
+6222,,203,sess_3106,purchase,2025-07-02 09:15:50.214026,Missing user_id
+6256,,629,sess_4425,view,2026-02-15 12:27:15.214026,Missing user_id
+6263,,163,,view,2025-10-04 10:52:43.214026,Missing user_id
+6292,,665,sess_3976,purchase,2026-06-06 16:37:36.214026,Missing user_id
+6334,,164,sess_1734,add_to_cart,2025-07-21 17:51:20.214026,Missing user_id
+6363,,1185,,add_to_cart,2026-01-13 03:37:01.214026,Missing user_id
+6378,,1164,sess_3462,add_to_cart,2025-12-22 08:06:58.214026,Missing user_id
+6409,,381,sess_2233,add_to_cart,2025-08-29 03:44:57.214026,Missing user_id
+6410,,106,sess_1299,add_to_cart,2026-06-05 19:47:16.214026,Missing user_id
+6425,,540,sess_2820,view,2026-06-06 08:26:18.214026,Missing user_id
+6427,,1160,sess_1807,view,2025-08-16 00:11:53.214026,Missing user_id
+6464,,1160,sess_2649,add_to_cart,2025-07-14 07:59:34.214026,Missing user_id
+6471,,1197,sess_4936,view,2026-02-02 16:16:19.214026,Missing user_id
+6475,,230,sess_2509,view,2025-08-31 20:14:31.214026,Missing user_id
+6490,,854,sess_3407,add_to_cart,invalid_timestamp,Missing user_id
+6521,,280,sess_2676,view,2025-09-20 12:11:54.216529,Missing user_id
+6555,,144,sess_25,view,2026-04-02 15:14:26.216529,Missing user_id
+6566,,618,sess_3371,purchase,2025-07-28 03:01:16.216529,Missing user_id
+6583,,346,sess_1940,view,2025-11-05 01:17:44.216529,Missing user_id
+6596,,97,sess_2733,add_to_cart,2025-11-09 16:20:08.216529,Missing user_id
+6599,,349,sess_2851,purchase,2025-07-17 23:29:55.216529,Missing user_id
+6652,,211,sess_3245,purchase,2026-03-20 06:06:43.216529,Missing user_id
+6667,,648,sess_155,purchase,2025-12-01 23:46:52.216529,Missing user_id
+6701,,190,,add_to_cart,2025-07-13 03:51:33.216529,Missing user_id
+6702,,960,sess_874,add_to_cart,2025-11-27 08:34:50.216529,Missing user_id
+6746,,171,sess_1819,view,2026-02-12 04:20:19.216529,Missing user_id
+6749,,814,sess_3311,purchase,2026-03-04 20:02:14.216529,Missing user_id
+6800,,63,sess_2210,view,2026-05-11 00:25:30.216529,Missing user_id
+6821,,36,sess_4258,add_to_cart,2026-04-25 20:30:37.216529,Missing user_id
+6843,,306,sess_2189,view,2026-05-21 12:38:16.216529,Missing user_id
+6868,,1135,sess_1406,view,2026-03-20 02:34:13.216529,Missing user_id
+6872,,488,sess_4904,purchase,2026-01-03 17:49:40.216529,Missing user_id
+6874,,37,sess_3266,add_to_cart,2026-03-21 12:18:37.216529,Missing user_id
+6882,,89,sess_792,purchase,2025-09-28 11:48:07.216529,Missing user_id
+6948,,1013,sess_999,purchase,2026-04-15 04:58:14.216529,Missing user_id
+7000,,972,sess_2428,purchase,2025-08-09 17:49:45.216529,Missing user_id
+7003,,845,sess_1565,add_to_cart,2026-01-21 02:14:49.218542,Missing user_id
+7032,,199,sess_4269,purchase,2025-10-16 09:08:37.218542,Missing user_id
+7036,,624,sess_4975,add_to_cart,2025-12-06 05:21:54.218542,Missing user_id
+7103,,902,sess_1109,purchase,2026-04-26 02:47:28.218542,Missing user_id
+7121,,41,sess_366,view,2026-03-30 22:48:05.218542,Missing user_id
+7167,,952,sess_2981,view,2025-08-27 18:00:11.218542,Missing user_id
+7189,,1014,sess_89,purchase,2025-11-20 13:55:59.218542,Missing user_id
+7201,,829,sess_1877,purchase,2026-03-26 21:28:12.219548,Missing user_id
+7204,,925,sess_3344,view,2026-05-04 19:12:51.219548,Missing user_id
+7205,,302,sess_2200,add_to_cart,2026-01-28 14:28:55.219548,Missing user_id
+7210,,827,sess_4249,purchase,2026-01-27 21:17:09.219548,Missing user_id
+7216,,688,sess_1709,view,2026-02-07 14:48:23.219548,Missing user_id
+7277,,293,sess_4912,add_to_cart,2026-04-26 17:42:05.219548,Missing user_id
+7283,,477,,add_to_cart,2025-07-27 20:23:40.219548,Missing user_id
+7302,,966,sess_1722,view,2026-04-24 21:38:56.219548,Missing user_id
+7348,,778,sess_4543,purchase,2026-06-03 09:46:41.219548,Missing user_id
+7353,,486,sess_1412,purchase,2025-09-20 15:28:33.219548,Missing user_id
+7388,,1131,sess_3996,add_to_cart,2025-06-15 22:56:38.219548,Missing user_id
+7400,,988,sess_1611,view,2026-06-10 19:57:22.219548,Missing user_id
+7414,,1163,sess_1603,view,2026-01-14 00:24:57.219548,Missing user_id
+7424,,825,sess_2214,add_to_cart,2025-09-13 07:18:55.219548,Missing user_id
+7478,,438,sess_3369,view,2025-07-23 01:05:38.219548,Missing user_id
+7492,,1097,sess_2541,add_to_cart,2026-05-11 22:02:12.219548,Missing user_id
+7496,,665,sess_123,add_to_cart,2026-05-16 11:29:38.219548,Missing user_id
+7503,,620,sess_2826,purchase,invalid_timestamp,Missing user_id
+7506,,942,sess_2776,view,2025-07-22 23:42:30.219548,Missing user_id
+7551,,1108,sess_2302,purchase,2026-04-03 00:56:56.219548,Missing user_id
+7591,,766,sess_2975,view,2026-05-01 12:59:50.222317,Missing user_id
+7623,,514,sess_3343,purchase,2026-02-25 00:04:52.222317,Missing user_id
+7632,,71,sess_1676,purchase,2025-06-25 15:15:02.222317,Missing user_id
+7646,,1123,sess_2382,view,2025-08-03 11:40:41.222317,Missing user_id
+7653,,197,sess_361,view,invalid_timestamp,Missing user_id
+7709,,310,sess_4722,add_to_cart,2025-10-13 06:00:01.222317,Missing user_id
+7775,,265,sess_4288,purchase,2025-11-16 15:22:48.222317,Missing user_id
+7779,,675,sess_1634,add_to_cart,invalid_timestamp,Missing user_id
+7811,,300,sess_3157,purchase,2026-04-29 08:37:26.222317,Missing user_id
+7849,,200,,view,2025-09-28 09:47:32.222317,Missing user_id
+7856,,476,sess_2612,add_to_cart,2026-04-06 16:38:04.222317,Missing user_id
+7870,,219,sess_2982,view,2026-01-22 16:49:17.222317,Missing user_id
+7880,,86,sess_104,view,2025-11-19 07:08:57.222317,Missing user_id
+7940,,470,sess_42,add_to_cart,2026-05-03 03:41:35.222317,Missing user_id
+7980,,504,sess_3030,purchase,2025-10-28 11:51:23.222317,Missing user_id
+8031,,365,sess_790,purchase,2025-07-13 13:52:36.222317,Missing user_id
+8076,,212,sess_862,add_to_cart,2025-09-02 04:30:38.222317,Missing user_id
+8086,,925,sess_927,view,2025-08-17 11:35:44.222317,Missing user_id
+8089,,1084,sess_1992,purchase,2025-08-05 02:11:36.224321,Missing user_id
+8146,,86,sess_4878,purchase,2026-04-26 17:19:29.224321,Missing user_id
+8164,,705,sess_309,add_to_cart,2026-04-01 15:21:31.224321,Missing user_id
+8166,,355,sess_2256,add_to_cart,2026-06-06 21:28:41.224321,Missing user_id
+8182,,914,sess_1947,add_to_cart,2025-11-06 12:52:41.224321,Missing user_id
+8231,,477,sess_3873,add_to_cart,2026-04-24 05:15:03.224321,Missing user_id
+8247,,595,sess_3705,add_to_cart,2026-02-20 09:21:48.224321,Missing user_id
+8264,,813,sess_342,add_to_cart,2026-01-04 06:58:48.224321,Missing user_id
+8278,,906,sess_4860,purchase,2026-03-05 21:49:49.224321,Missing user_id
+8318,,524,sess_2541,add_to_cart,2025-11-28 04:30:04.224321,Missing user_id
+8320,,1002,sess_1917,add_to_cart,2025-10-08 23:18:23.224321,Missing user_id
+8321,,301,sess_3981,view,2026-02-06 03:38:58.224321,Missing user_id
+8345,,142,sess_2781,add_to_cart,2025-12-20 22:40:48.224321,Missing user_id
+8348,,233,sess_4899,view,2026-03-08 19:21:17.224321,Missing user_id
+8355,,579,sess_423,purchase,2026-02-17 03:38:01.224321,Missing user_id
+8409,,1027,sess_2142,add_to_cart,2026-06-01 15:14:01.224321,Missing user_id
+8416,,786,sess_644,view,2025-10-15 23:11:35.224321,Missing user_id
+8419,,246,sess_3717,purchase,2025-11-03 02:04:36.224321,Missing user_id
+8446,,427,sess_844,add_to_cart,2026-04-04 11:00:56.224321,Missing user_id
+8470,,694,sess_2474,add_to_cart,invalid_timestamp,Missing user_id
+8472,,422,sess_394,purchase,invalid_timestamp,Missing user_id
+8482,,796,sess_3962,view,2026-03-14 03:14:25.224321,Missing user_id
+8525,,188,sess_383,purchase,2025-09-03 18:35:18.224321,Missing user_id
+8549,,494,sess_1260,add_to_cart,2025-10-27 23:28:10.224321,Missing user_id
+8562,,141,sess_1595,purchase,2026-02-05 09:36:11.224321,Missing user_id
+8564,,313,sess_2996,view,2026-03-20 12:48:41.224321,Missing user_id
+8575,,425,sess_2070,add_to_cart,2025-11-22 01:23:24.224321,Missing user_id
+8596,,272,sess_2735,view,2026-01-23 21:41:38.224321,Missing user_id
+8663,,685,sess_4096,purchase,2025-12-17 21:44:12.226324,Missing user_id
+8679,,831,sess_4666,purchase,2025-12-26 16:24:42.226324,Missing user_id
+8728,,105,,add_to_cart,2025-12-12 07:39:17.226324,Missing user_id
+8756,,535,sess_633,add_to_cart,2026-02-03 23:43:23.226324,Missing user_id
+8792,,617,sess_4849,purchase,2025-07-28 09:40:34.226324,Missing user_id
+8851,,699,sess_453,view,2025-06-26 11:47:14.226324,Missing user_id
+8879,,357,sess_1427,view,2026-04-08 14:34:41.226324,Missing user_id
+8891,,182,sess_230,add_to_cart,2026-01-06 21:44:46.226324,Missing user_id
+8897,,456,sess_4015,add_to_cart,2026-02-08 03:23:22.226324,Missing user_id
+8928,,885,sess_2746,add_to_cart,2026-02-23 00:31:08.226324,Missing user_id
+8937,,819,sess_2468,add_to_cart,2026-04-20 07:24:05.226324,Missing user_id
+9003,,630,sess_3771,view,2025-07-01 14:09:39.227826,Missing user_id
+9009,,351,sess_116,add_to_cart,2026-04-18 18:26:39.227826,Missing user_id
+9014,,906,sess_1548,view,2026-04-11 14:36:15.227826,Missing user_id
+9019,,922,sess_4017,add_to_cart,2026-02-16 06:13:22.227826,Missing user_id
+9056,,550,sess_4014,view,2025-07-30 10:02:26.227826,Missing user_id
+9058,,858,sess_2975,add_to_cart,2025-08-02 14:20:25.227826,Missing user_id
+9062,,976,sess_4084,view,2025-10-31 01:39:58.227826,Missing user_id
+9090,,714,sess_3788,add_to_cart,2026-05-13 07:43:55.227826,Missing user_id
+9094,,975,sess_4605,view,2026-04-23 01:06:34.227826,Missing user_id
+9096,,1127,sess_3505,view,2026-02-11 17:19:24.227826,Missing user_id
+9113,,462,,add_to_cart,invalid_timestamp,Missing user_id
+9144,,926,sess_2041,add_to_cart,2025-08-04 12:38:04.228610,Missing user_id
+9165,,951,sess_1669,view,2025-09-28 16:42:30.228610,Missing user_id
+9166,,149,sess_4964,purchase,2026-01-17 03:22:33.228610,Missing user_id
+9171,,1158,sess_3291,purchase,2025-12-17 12:21:07.228610,Missing user_id
+9175,,708,sess_189,add_to_cart,2025-06-29 02:11:36.228610,Missing user_id
+9233,,295,sess_4409,add_to_cart,2026-05-30 09:04:26.228610,Missing user_id
+9242,,1139,sess_3571,view,2026-01-14 14:16:06.228610,Missing user_id
+9245,,307,sess_3728,purchase,2025-08-05 23:35:48.228610,Missing user_id
+9252,,599,sess_2341,purchase,2025-08-11 18:04:37.228610,Missing user_id
+9321,,1194,sess_3232,purchase,2025-07-22 09:57:30.228610,Missing user_id
+9355,,88,sess_4214,view,2025-12-05 07:34:50.228610,Missing user_id
+9369,,638,sess_781,view,2026-06-06 22:17:25.228610,Missing user_id
+9375,,265,sess_4495,add_to_cart,invalid_timestamp,Missing user_id
+9397,,1177,sess_123,view,2025-06-27 18:23:29.228610,Missing user_id
+9423,,914,sess_4907,purchase,2026-03-15 08:16:56.228610,Missing user_id
+9431,,265,sess_380,view,2025-06-23 10:34:44.228610,Missing user_id
+9433,,588,sess_493,purchase,2026-01-13 23:30:19.228610,Missing user_id
+9435,,1175,,view,2025-09-11 23:47:40.228610,Missing user_id
+9445,,368,sess_2653,add_to_cart,2026-03-24 05:28:27.228610,Missing user_id
+9446,,1161,sess_3878,view,2025-10-22 21:44:23.228610,Missing user_id
+9461,,265,sess_2436,add_to_cart,2025-06-14 13:31:12.228610,Missing user_id
+9562,,926,sess_2502,add_to_cart,2026-05-27 18:30:20.228610,Missing user_id
+9614,,919,sess_3617,purchase,2026-01-14 19:59:01.228610,Missing user_id
+9622,,754,sess_3540,purchase,2025-11-09 02:20:51.228610,Missing user_id
+9636,,582,sess_3790,purchase,2026-03-21 19:14:11.228610,Missing user_id
+9641,,298,sess_1804,view,2026-03-16 12:17:35.228610,Missing user_id
+9667,,402,sess_494,view,2025-11-09 07:02:46.228610,Missing user_id
+9674,,207,sess_2511,view,2025-08-31 14:03:20.228610,Missing user_id
+9683,,1156,sess_3848,add_to_cart,2025-12-02 15:13:30.228610,Missing user_id
+9698,,1119,sess_2364,view,2026-01-23 13:14:24.228610,Missing user_id
+9749,,101,sess_2954,add_to_cart,2025-12-07 02:54:11.228610,Missing user_id
+9754,,347,sess_2083,purchase,2026-01-07 15:45:45.228610,Missing user_id
+9779,,625,sess_4188,purchase,2026-03-03 02:02:48.228610,Missing user_id
+9804,,794,sess_2850,add_to_cart,2026-02-11 13:26:00.228610,Missing user_id
+9808,,1015,,add_to_cart,2025-10-09 19:08:16.228610,Missing user_id
+9919,,839,sess_541,add_to_cart,invalid_timestamp,Missing user_id
+9939,,1173,sess_4853,purchase,invalid_timestamp,Missing user_id
+9947,,45,sess_4391,view,2025-07-26 21:56:46.228610,Missing user_id
+9964,,589,sess_2159,view,2026-05-14 10:53:21.228610,Missing user_id
+9977,,249,sess_2221,add_to_cart,2026-03-27 06:24:39.228610,Missing user_id
+9979,,681,sess_3277,add_to_cart,2026-01-03 18:50:07.228610,Missing user_id
+9982,,586,sess_487,purchase,invalid_timestamp,Missing user_id
+9987,,472,sess_390,view,2026-01-10 19:46:01.228610,Missing user_id
+9989,,1039,sess_2199,purchase,2025-09-01 10:59:01.228610,Missing user_id
+9998,,366,sess_766,add_to_cart,2025-10-01 03:45:44.228610,Missing user_id
+10002,,942,sess_4669,add_to_cart,2025-11-23 06:03:01.228610,Missing user_id
+10051,,957,sess_329,add_to_cart,2026-03-14 01:53:54.228610,Missing user_id
+10074,,793,sess_2782,view,2025-06-17 13:21:09.228610,Missing user_id
+10086,,219,sess_3896,add_to_cart,2025-12-22 09:26:19.228610,Missing user_id
+10126,,451,sess_2737,purchase,2026-01-05 11:02:02.228610,Missing user_id
+10127,,51,sess_4796,purchase,2025-10-19 21:22:31.228610,Missing user_id
+10145,,336,sess_4819,purchase,2025-10-29 06:17:50.228610,Missing user_id
+10188,,457,sess_4291,view,2025-11-06 01:43:53.228610,Missing user_id
+10238,,267,sess_3266,purchase,2025-07-04 03:21:19.228610,Missing user_id
+10273,,189,sess_2706,view,2025-07-07 17:59:50.228610,Missing user_id
+10338,,964,sess_670,add_to_cart,2025-08-20 02:59:03.228610,Missing user_id
+10395,,344,sess_3135,purchase,2025-10-23 00:50:21.228610,Missing user_id
+10408,,1085,sess_1421,view,2026-05-21 17:23:07.228610,Missing user_id
+10415,,967,sess_1272,purchase,2026-01-01 11:23:02.228610,Missing user_id
+10432,,286,sess_2649,view,2026-01-17 09:19:08.228610,Missing user_id
+10438,,40,sess_726,view,2025-10-28 06:16:39.228610,Missing user_id
+10440,,971,sess_4289,add_to_cart,2025-11-28 17:33:05.228610,Missing user_id
+10444,,1024,sess_2617,view,2026-02-07 07:57:27.228610,Missing user_id
+10472,,1097,sess_1994,view,2025-12-12 14:02:16.228610,Missing user_id
+10490,,473,sess_3336,view,2026-04-01 04:16:14.228610,Missing user_id
+10522,,439,sess_3940,purchase,2025-11-16 12:52:19.228610,Missing user_id
+10535,,273,sess_549,purchase,2026-01-28 10:44:46.228610,Missing user_id
+10549,,368,sess_1650,add_to_cart,2025-10-13 23:40:17.228610,Missing user_id
+10553,,177,sess_2654,add_to_cart,2025-09-15 22:35:57.228610,Missing user_id
+10554,,833,sess_4661,add_to_cart,2025-07-01 08:05:01.228610,Missing user_id
+10555,,194,sess_1433,purchase,2026-02-07 00:45:12.228610,Missing user_id
+10559,,1189,sess_631,view,2026-01-15 22:31:42.228610,Missing user_id
+10587,,1109,sess_1347,view,2026-06-11 12:18:05.228610,Missing user_id
+10593,,197,sess_4555,add_to_cart,2025-07-21 18:32:39.228610,Missing user_id
+10611,,1088,,add_to_cart,2026-02-07 12:08:18.228610,Missing user_id
+10618,,649,sess_592,purchase,2026-04-10 16:43:17.228610,Missing user_id
+10634,,412,sess_1036,view,2026-01-11 22:40:34.228610,Missing user_id
+10640,,9,sess_3587,add_to_cart,2025-07-23 13:07:01.228610,Missing user_id
+10652,,989,sess_4503,view,2026-05-05 17:58:33.228610,Missing user_id
+10664,,1062,sess_1597,add_to_cart,2025-12-22 02:48:25.228610,Missing user_id
+10670,,205,sess_1648,view,2025-06-29 02:13:23.228610,Missing user_id
+10708,,296,sess_1923,add_to_cart,2025-07-16 10:43:25.228610,Missing user_id
+10725,,12,sess_3678,purchase,2025-07-11 05:10:10.228610,Missing user_id
+10746,,532,sess_1523,view,2025-09-19 03:29:37.228610,Missing user_id
+10787,,1126,sess_1636,view,2026-05-26 18:06:42.228610,Missing user_id
+10789,,776,sess_2515,view,2026-03-16 18:42:30.228610,Missing user_id
+10810,,714,sess_2175,view,2025-12-08 23:09:42.228610,Missing user_id
+10820,,299,sess_776,add_to_cart,2025-10-09 18:10:00.228610,Missing user_id
+10848,,1023,sess_2896,view,2026-03-03 19:37:16.228610,Missing user_id
+10856,,130,sess_3080,add_to_cart,2025-12-31 07:39:33.228610,Missing user_id
+10895,,950,sess_982,view,2025-12-02 08:50:03.228610,Missing user_id
+10912,,1008,sess_2128,purchase,2026-05-02 18:39:59.228610,Missing user_id
+10923,,362,sess_981,view,2025-09-06 13:01:31.228610,Missing user_id
+10929,,716,sess_3795,view,2025-09-11 23:38:57.228610,Missing user_id
+10954,,1132,,view,2026-03-12 14:02:51.228610,Missing user_id
+10955,,911,,view,2026-04-03 04:57:47.228610,Missing user_id
+10963,,854,sess_130,view,2026-04-25 17:01:45.235934,Missing user_id
+10970,,685,sess_2062,purchase,2025-12-07 19:12:13.235934,Missing user_id
+10975,,613,sess_3184,add_to_cart,2025-10-06 15:40:48.235934,Missing user_id
+10987,,139,sess_417,add_to_cart,2026-03-30 02:24:41.235934,Missing user_id
+11000,,369,sess_2229,purchase,2026-04-09 08:12:53.235934,Missing user_id
+11040,,82,sess_2144,view,2026-01-07 23:47:49.235934,Missing user_id
+11045,,929,sess_2144,view,2026-02-10 13:16:13.235934,Missing user_id
+11056,,706,sess_3670,add_to_cart,2025-06-23 10:53:49.235934,Missing user_id
+11070,,946,sess_3660,purchase,2025-12-04 11:34:38.235934,Missing user_id
+11075,,1030,sess_3700,purchase,2026-05-16 09:22:35.235934,Missing user_id
+11082,,854,sess_763,view,2025-06-29 00:04:22.235934,Missing user_id
+11093,,1137,sess_4841,view,2025-09-29 12:09:51.235934,Missing user_id
+11146,,419,sess_3480,purchase,2025-10-19 02:28:53.235934,Missing user_id
+11162,,455,sess_2012,view,2025-10-11 06:16:56.235934,Missing user_id
+11201,,1075,sess_171,add_to_cart,2025-06-15 15:14:18.237113,Missing user_id
+11204,,194,sess_2070,purchase,2026-06-04 08:07:28.237113,Missing user_id
+11224,,900,,view,2026-01-11 19:09:47.237113,Missing user_id
+11225,,430,sess_1434,add_to_cart,2026-01-19 02:38:05.237113,Missing user_id
+11263,,365,sess_786,add_to_cart,2026-04-05 13:52:37.237113,Missing user_id
+11286,,998,sess_2688,view,2026-06-05 03:16:51.237113,Missing user_id
+11333,,587,sess_2018,purchase,2026-03-08 17:19:46.237113,Missing user_id
+11340,,31,sess_2610,view,invalid_timestamp,Missing user_id
+11364,,490,sess_2265,view,2025-06-25 03:24:17.237113,Missing user_id
+11367,,564,sess_2678,view,2025-06-11 03:50:56.237113,Missing user_id
+11377,,107,,view,2025-06-28 21:09:01.237113,Missing user_id
+11387,,616,sess_4283,view,2025-06-21 11:03:41.237113,Missing user_id
+11389,,717,,purchase,2025-12-04 02:15:01.237113,Missing user_id
+11393,,212,sess_3432,purchase,2025-08-07 03:22:37.237113,Missing user_id
+11419,,936,sess_550,add_to_cart,2026-04-14 13:54:30.237113,Missing user_id
+11428,,26,sess_777,add_to_cart,2025-09-07 10:20:05.237113,Missing user_id
+11474,,964,sess_2440,purchase,2026-02-10 12:27:33.237113,Missing user_id
+11530,,419,sess_1442,add_to_cart,2025-06-20 20:23:55.237113,Missing user_id
+11550,,62,sess_1719,view,2025-06-12 06:06:00.237113,Missing user_id
+11562,,843,sess_3908,view,2025-09-29 20:00:12.237113,Missing user_id
+11643,,665,sess_2160,view,2025-08-09 01:27:28.238931,Missing user_id
+11655,,442,sess_4792,add_to_cart,2026-03-31 11:52:40.238931,Missing user_id
+11690,,661,sess_3699,purchase,2025-08-14 14:59:49.238931,Missing user_id
+11725,,494,sess_579,add_to_cart,2025-12-04 03:03:04.238931,Missing user_id
+11757,,400,sess_1938,view,2025-09-21 07:19:31.238931,Missing user_id
+11769,,307,sess_3491,purchase,2025-07-12 20:59:06.238931,Missing user_id
+11782,,895,sess_1325,add_to_cart,2025-07-18 06:50:06.238931,Missing user_id
+11887,,26,sess_4206,purchase,2025-06-26 18:46:21.238931,Missing user_id
+11892,,803,sess_3308,view,2026-03-14 03:56:57.238931,Missing user_id
+11907,,1048,sess_4769,purchase,2026-03-08 00:19:08.238931,Missing user_id
+11936,,1076,sess_1037,purchase,2025-08-16 15:59:19.238931,Missing user_id
+11977,,1032,sess_3996,add_to_cart,2026-03-01 19:21:07.238931,Missing user_id
+12004,,981,sess_2543,view,2026-01-29 11:32:02.238931,Missing user_id
+12010,,253,sess_3926,view,2025-11-07 22:42:09.238931,Missing user_id
+12022,,482,sess_1138,add_to_cart,2026-04-28 04:10:03.238931,Missing user_id
+12036,,407,sess_4221,view,2025-09-05 15:10:10.238931,Missing user_id
+12043,,807,sess_2194,view,2026-03-03 07:37:22.238931,Missing user_id
+12071,,940,sess_2083,view,2025-07-01 03:11:05.238931,Missing user_id
+12078,,427,sess_4215,view,2025-06-30 22:07:17.238931,Missing user_id
+12079,,733,sess_682,add_to_cart,2025-06-13 17:09:26.238931,Missing user_id
+12087,,444,,view,2025-11-27 00:09:33.238931,Missing user_id
+12166,,214,sess_1055,view,2026-05-12 21:27:47.240934,Missing user_id
+12184,,1112,sess_1086,purchase,2025-07-12 16:45:42.240934,Missing user_id
+12207,,1004,sess_1473,view,2026-05-09 20:05:29.240934,Missing user_id
+12245,,21,sess_2095,purchase,2026-02-10 00:38:08.240934,Missing user_id
+12258,,340,sess_4758,view,2026-02-02 20:18:10.240934,Missing user_id
+12264,,106,sess_3203,view,2025-11-21 05:54:26.240934,Missing user_id
+12294,,777,sess_2497,add_to_cart,2025-10-11 03:06:53.240934,Missing user_id
+12322,,242,sess_4526,add_to_cart,2025-10-04 04:31:45.240934,Missing user_id
+12329,,98,sess_2593,add_to_cart,2026-06-09 08:28:02.240934,Missing user_id
+12330,,71,sess_3536,purchase,2025-12-30 00:32:44.240934,Missing user_id
+12338,,1076,sess_1868,view,2025-08-22 09:54:20.240934,Missing user_id
+12343,,773,sess_1459,add_to_cart,2025-09-26 07:27:47.240934,Missing user_id
+12355,,1102,sess_3539,purchase,2026-04-22 21:41:57.240934,Missing user_id
+12356,,1066,sess_312,add_to_cart,2025-07-01 06:47:39.240934,Missing user_id
+12357,,468,sess_4278,purchase,2025-10-05 07:02:19.240934,Missing user_id
+12363,,1005,sess_3818,add_to_cart,2025-07-13 09:58:09.240934,Missing user_id
+12364,,1021,sess_1974,add_to_cart,2026-05-14 04:21:49.240934,Missing user_id
+12373,,696,sess_2907,view,2026-05-08 08:07:07.240934,Missing user_id
+12386,,985,sess_3021,purchase,2026-01-16 05:44:34.240934,Missing user_id
+12410,,742,sess_1300,add_to_cart,2025-10-03 13:27:44.240934,Missing user_id
+12411,,772,sess_2185,purchase,2026-02-03 16:12:50.240934,Missing user_id
+12431,,554,sess_3893,view,2026-01-29 16:49:02.240934,Missing user_id
+12448,,268,sess_3458,view,2025-07-16 20:48:28.240934,Missing user_id
+12484,,218,sess_2164,view,2026-01-17 05:20:45.240934,Missing user_id
+12531,,685,sess_1624,add_to_cart,2025-10-30 00:05:13.240934,Missing user_id
+12533,,622,sess_3818,view,2026-02-28 17:29:28.240934,Missing user_id
+12551,,25,sess_1092,view,2026-04-22 15:43:57.240934,Missing user_id
+12579,,3,sess_4491,add_to_cart,2026-02-13 21:14:45.240934,Missing user_id
+12653,,717,,purchase,2026-05-31 23:36:17.242937,Missing user_id
+12667,,1138,sess_2660,add_to_cart,2026-06-02 11:05:35.242937,Missing user_id
+12689,,903,sess_1030,add_to_cart,2026-06-02 02:41:08.242937,Missing user_id
+12693,,433,sess_2816,add_to_cart,2025-07-23 23:18:25.242937,Missing user_id
+12730,,575,sess_4186,purchase,2026-04-01 23:07:35.242937,Missing user_id
+12738,,803,sess_1068,purchase,2025-09-07 06:49:04.242937,Missing user_id
+12745,,648,sess_4257,view,2025-11-17 18:55:31.242937,Missing user_id
+12748,,477,sess_4788,purchase,2026-03-18 05:21:27.242937,Missing user_id
+12754,,900,sess_1047,purchase,2025-12-01 02:33:32.242937,Missing user_id
+12791,,965,sess_365,view,invalid_timestamp,Missing user_id
+12838,,982,sess_2227,view,2025-12-12 11:09:24.242937,Missing user_id
+12876,,836,sess_684,purchase,2025-09-08 16:22:05.242937,Missing user_id
+12879,,103,sess_3450,purchase,2026-02-24 14:11:30.242937,Missing user_id
+12896,,1113,sess_4987,add_to_cart,2026-04-27 00:02:03.242937,Missing user_id
+12901,,187,sess_1738,purchase,2025-07-12 12:36:05.243940,Missing user_id
+12933,,200,sess_3699,view,2026-03-28 09:14:20.243940,Missing user_id
+12937,,1056,sess_3832,add_to_cart,2025-06-26 00:11:37.243940,Missing user_id
+12952,,354,sess_890,add_to_cart,2026-03-10 19:05:43.243940,Missing user_id
+12959,,153,sess_1196,purchase,2026-05-10 04:50:45.243940,Missing user_id
+12976,,359,sess_1721,add_to_cart,invalid_timestamp,Missing user_id
+12988,,424,sess_3367,add_to_cart,2025-06-14 11:30:03.243940,Missing user_id
+12996,,1067,sess_4570,view,2026-04-29 17:01:54.243940,Missing user_id
+13012,,1149,sess_3753,add_to_cart,2026-02-16 17:21:55.243940,Missing user_id
+13024,,581,sess_3815,purchase,2026-02-21 08:14:09.243940,Missing user_id
+13045,,560,sess_2755,view,invalid_timestamp,Missing user_id
+13048,,565,sess_2649,add_to_cart,2025-07-14 19:48:39.243940,Missing user_id
+13063,,178,sess_3978,purchase,2026-05-17 08:58:26.243940,Missing user_id
+13064,,329,sess_2649,add_to_cart,2026-01-12 11:36:56.243940,Missing user_id
+13087,,777,sess_2071,purchase,2026-02-16 14:02:47.243940,Missing user_id
+13088,,904,sess_394,view,2025-11-16 14:23:31.243940,Missing user_id
+13110,,642,sess_128,purchase,2026-03-11 20:58:48.243940,Missing user_id
+13159,,698,sess_960,add_to_cart,2026-04-19 08:29:22.245946,Missing user_id
+13171,,540,sess_714,add_to_cart,2026-02-21 09:53:17.245946,Missing user_id
+13230,,116,sess_834,add_to_cart,2025-12-09 11:31:16.245946,Missing user_id
+13259,,61,sess_3302,add_to_cart,2025-09-03 18:03:51.245946,Missing user_id
+13268,,211,sess_3294,view,2025-09-15 06:47:10.245946,Missing user_id
+13302,,169,sess_1195,add_to_cart,2025-06-19 06:51:44.245946,Missing user_id
+13303,,419,sess_950,view,2026-01-01 05:54:21.245946,Missing user_id
+13305,,747,sess_4738,purchase,invalid_timestamp,Missing user_id
+13313,,65,,purchase,2025-07-20 04:44:49.245946,Missing user_id
+13335,,60,sess_928,add_to_cart,2025-07-07 13:50:18.245946,Missing user_id
+13350,,1098,sess_4240,add_to_cart,2026-02-25 17:33:08.245946,Missing user_id
+13366,,287,sess_4265,add_to_cart,2025-11-29 22:19:59.245946,Missing user_id
+13418,,611,sess_4299,add_to_cart,2026-05-16 20:14:40.245946,Missing user_id
+13442,,603,sess_1233,view,2025-11-05 19:39:38.245946,Missing user_id
+13473,,439,sess_2738,view,2025-12-12 10:33:52.245946,Missing user_id
+13544,,1142,sess_1793,view,invalid_timestamp,Missing user_id
+13547,,826,,view,2025-11-09 04:26:25.245946,Missing user_id
+13583,,672,sess_3838,add_to_cart,2026-02-21 10:55:16.247953,Missing user_id
+13620,,829,sess_925,purchase,2026-04-25 12:19:38.247953,Missing user_id
+13622,,281,sess_3789,view,2025-09-06 06:16:33.247953,Missing user_id
+13663,,641,,view,2026-05-10 05:58:16.247953,Missing user_id
+13692,,35,sess_3744,view,2025-11-06 21:36:46.247953,Missing user_id
+13697,,332,sess_2014,add_to_cart,2026-02-15 00:14:13.247953,Missing user_id
+13726,,250,sess_1779,view,2026-03-14 04:33:35.247953,Missing user_id
+13736,,255,sess_3,view,2026-05-10 15:31:49.247953,Missing user_id
+13738,,1027,,view,2025-11-28 03:34:12.247953,Missing user_id
+13741,,702,sess_4518,purchase,2025-12-28 11:18:34.247953,Missing user_id
+13749,,52,sess_3299,add_to_cart,2025-08-21 02:18:29.247953,Missing user_id
+13798,,1170,sess_3599,add_to_cart,2025-10-21 16:34:27.247953,Missing user_id
+13801,,458,sess_4352,add_to_cart,2025-10-23 03:38:44.247953,Missing user_id
+13833,,803,sess_1808,add_to_cart,2025-10-10 04:24:31.247953,Missing user_id
+13840,,731,sess_4552,add_to_cart,2025-11-06 08:09:17.247953,Missing user_id
+13841,,849,sess_1238,add_to_cart,2026-03-07 23:01:08.247953,Missing user_id
+13853,,650,sess_4779,view,2025-06-26 23:11:44.247953,Missing user_id
+13884,,104,sess_1399,purchase,2025-07-26 01:58:33.247953,Missing user_id
+13898,,402,sess_309,view,2026-04-19 22:08:39.247953,Missing user_id
+13920,,272,sess_1006,view,2025-09-01 13:37:08.247953,Missing user_id
+13934,,332,,add_to_cart,2026-01-31 05:34:31.247953,Missing user_id
+13939,,158,sess_2603,view,2026-06-04 13:42:00.247953,Missing user_id
+13940,,393,sess_3556,purchase,2025-07-22 00:42:42.247953,Missing user_id
+13943,,962,sess_1641,view,2026-01-06 14:55:17.247953,Missing user_id
+13953,,93,sess_1633,purchase,2025-09-07 23:17:21.247953,Missing user_id
+13964,,869,sess_4926,add_to_cart,2026-01-17 12:47:58.247953,Missing user_id
+13966,,1092,sess_2859,purchase,2025-09-14 21:32:37.247953,Missing user_id
+13981,,217,sess_1414,add_to_cart,2025-10-09 18:42:43.247953,Missing user_id
+13986,,764,sess_1724,view,2025-11-07 20:38:41.247953,Missing user_id
+14001,,315,sess_737,add_to_cart,2025-09-07 21:02:13.247953,Missing user_id
+14023,,398,sess_2287,purchase,invalid_timestamp,Missing user_id
+14030,,492,sess_4429,purchase,2025-12-26 13:12:24.247953,Missing user_id
+14059,,538,sess_1600,add_to_cart,invalid_timestamp,Missing user_id
+14103,,847,sess_1028,view,2025-08-14 17:47:23.249957,Missing user_id
+14146,,1187,sess_871,add_to_cart,2025-10-11 12:13:06.249957,Missing user_id
+14162,,599,sess_1148,add_to_cart,2026-04-22 15:19:10.249957,Missing user_id
+14206,,554,sess_2508,add_to_cart,2025-09-20 00:50:41.249957,Missing user_id
+14235,,263,sess_1356,purchase,invalid_timestamp,Missing user_id
+14263,,198,,add_to_cart,2026-03-12 14:25:25.249957,Missing user_id
+14268,,629,sess_4353,purchase,2025-09-22 02:58:41.249957,Missing user_id
+14313,,359,sess_3012,purchase,2026-06-08 10:01:44.249957,Missing user_id
+14314,,41,sess_3364,view,2025-11-30 15:57:36.249957,Missing user_id
+14341,,471,sess_1840,add_to_cart,2026-04-02 06:03:56.249957,Missing user_id
+14351,,399,sess_898,view,2025-11-21 13:53:02.249957,Missing user_id
+14369,,985,sess_2426,purchase,2025-08-06 10:33:37.249957,Missing user_id
+14388,,920,,view,2026-06-04 02:50:48.249957,Missing user_id
+14407,,768,sess_607,view,2025-11-13 21:32:53.249957,Missing user_id
+14421,,831,sess_4709,add_to_cart,2026-04-08 23:47:03.249957,Missing user_id
+14440,,490,sess_107,view,2026-03-11 22:08:46.249957,Missing user_id
+14455,,534,,purchase,invalid_timestamp,Missing user_id
+14527,,421,sess_3506,purchase,2025-08-30 09:34:36.249957,Missing user_id
+14538,,850,sess_4603,add_to_cart,2025-11-12 10:47:41.249957,Missing user_id
+14556,,116,,view,2026-06-06 12:03:24.249957,Missing user_id
+14565,,734,sess_718,purchase,2025-07-06 05:39:35.249957,Missing user_id
+14569,,1017,sess_1795,purchase,2026-01-28 05:36:47.249957,Missing user_id
+14603,,829,sess_2996,view,2026-03-05 16:00:46.251960,Missing user_id
+14609,,857,sess_2852,view,2025-11-13 02:04:34.251960,Missing user_id
+14611,,408,sess_3662,view,2026-05-24 15:53:26.251960,Missing user_id
+14614,,867,sess_2166,add_to_cart,2025-08-10 23:16:40.251960,Missing user_id
+14615,,998,sess_3894,view,2026-01-22 23:13:15.251960,Missing user_id
+14622,,854,sess_4927,purchase,2026-04-04 05:36:49.251960,Missing user_id
+14635,,81,sess_2388,add_to_cart,2025-11-30 18:07:39.251960,Missing user_id
+14664,,702,sess_2623,purchase,2025-10-15 18:05:36.251960,Missing user_id
+14701,,789,sess_2047,purchase,2025-07-16 01:05:14.251960,Missing user_id
+14704,,36,sess_4756,add_to_cart,2025-09-27 09:13:26.251960,Missing user_id
+14718,,571,sess_1872,purchase,2026-02-05 19:25:10.251960,Missing user_id
+14739,,975,sess_4436,purchase,2026-04-24 14:38:59.251960,Missing user_id
+14755,,1071,sess_3313,view,2026-04-21 01:16:05.251960,Missing user_id
+14762,,129,sess_2738,purchase,2025-09-29 08:58:11.251960,Missing user_id
+14778,,1099,sess_2666,view,2026-03-30 09:16:14.251960,Missing user_id
+14784,,287,sess_829,purchase,2025-10-05 05:19:53.251960,Missing user_id
+14798,,1015,sess_2183,purchase,2026-02-19 02:27:45.251960,Missing user_id
+14921,,253,sess_86,view,2026-05-17 05:25:12.253968,Missing user_id
+7,851.0,491,,purchase,2025-07-01 06:21:30.178635,Invalid session_id
+33,1031.0,1189,,purchase,invalid_timestamp,Invalid session_id
+84,663.0,1030,,add_to_cart,2026-03-02 02:54:34.178635,Invalid session_id
+102,763.0,154,,add_to_cart,2025-08-11 00:41:49.178635,Invalid session_id
+118,730.0,700,,view,2025-08-26 20:58:01.178635,Invalid session_id
+127,1103.0,399,,add_to_cart,2026-04-05 10:41:37.178635,Invalid session_id
+135,899.0,879,,view,2025-07-28 18:14:16.178635,Invalid session_id
+139,47.0,999,,view,2025-06-26 18:38:25.178635,Invalid session_id
+166,7.0,386,,purchase,2025-12-07 16:33:37.178635,Invalid session_id
+203,538.0,1025,,purchase,2026-04-07 13:20:05.178635,Invalid session_id
+204,570.0,693,,purchase,2025-06-12 05:23:35.178635,Invalid session_id
+205,832.0,633,,add_to_cart,2026-04-30 07:54:14.178635,Invalid session_id
+330,743.0,1037,,add_to_cart,2025-11-13 00:12:43.178635,Invalid session_id
+349,908.0,1088,,purchase,2025-06-23 15:52:51.178635,Invalid session_id
+381,811.0,786,,purchase,2026-01-21 06:31:39.178635,Invalid session_id
+386,1090.0,244,,view,2025-12-29 18:20:43.178635,Invalid session_id
+431,200.0,13,,add_to_cart,2025-09-05 19:36:36.178635,Invalid session_id
+441,599.0,872,,view,2025-10-08 22:40:50.178635,Invalid session_id
+456,30.0,162,,view,2026-03-07 23:17:52.181409,Invalid session_id
+459,691.0,34,,purchase,2025-10-22 15:38:10.181409,Invalid session_id
+480,610.0,143,,view,2026-03-30 09:49:28.181409,Invalid session_id
+493,347.0,880,,purchase,2025-10-22 02:07:44.181409,Invalid session_id
+526,454.0,170,,view,2026-02-26 02:44:55.181409,Invalid session_id
+581,286.0,793,,add_to_cart,2026-04-09 05:51:48.181409,Invalid session_id
+583,328.0,80,,add_to_cart,2026-02-02 16:38:57.181409,Invalid session_id
+678,1040.0,469,,add_to_cart,2026-02-21 01:59:26.181409,Invalid session_id
+791,1099.0,83,,purchase,2025-10-14 14:32:13.181409,Invalid session_id
+798,420.0,1176,,add_to_cart,2025-07-25 09:38:52.181409,Invalid session_id
+858,550.0,376,,add_to_cart,2025-12-26 10:45:37.181409,Invalid session_id
+867,877.0,216,,purchase,invalid_timestamp,Invalid session_id
+871,1139.0,339,,purchase,2026-01-02 22:15:47.181409,Invalid session_id
+885,350.0,978,,view,2025-12-13 03:47:50.181409,Invalid session_id
+932,685.0,648,,view,2025-09-24 16:41:48.181409,Invalid session_id
+937,666.0,486,,add_to_cart,2026-02-27 00:56:24.181409,Invalid session_id
+957,1009.0,1038,,add_to_cart,invalid_timestamp,Invalid session_id
+974,738.0,956,,add_to_cart,2026-05-13 10:28:27.183414,Invalid session_id
+989,272.0,138,,view,2026-06-02 21:39:11.183414,Invalid session_id
+1004,85.0,731,,purchase,2026-05-31 09:04:05.183414,Invalid session_id
+1006,1195.0,517,,view,2025-11-12 04:44:27.183414,Invalid session_id
+1010,58.0,712,,add_to_cart,2025-11-22 02:38:07.183414,Invalid session_id
+1032,1003.0,854,,purchase,2025-08-28 19:56:54.183414,Invalid session_id
+1045,993.0,425,,purchase,2025-06-19 03:20:18.183414,Invalid session_id
+1046,404.0,623,,purchase,2025-08-10 10:59:50.183414,Invalid session_id
+1055,546.0,681,,view,2025-12-05 18:07:04.183414,Invalid session_id
+1119,193.0,421,,add_to_cart,2026-02-06 00:01:24.183414,Invalid session_id
+1141,904.0,266,,add_to_cart,2025-07-31 21:58:09.183414,Invalid session_id
+1153,557.0,285,,view,2026-05-06 11:52:12.183414,Invalid session_id
+1168,944.0,185,,add_to_cart,2025-09-30 20:12:42.183414,Invalid session_id
+1206,757.0,175,,purchase,2025-08-27 18:29:57.183414,Invalid session_id
+1245,248.0,640,,view,2025-09-01 22:44:04.183414,Invalid session_id
+1260,754.0,81,,view,2025-10-06 21:02:16.183414,Invalid session_id
+1291,161.0,49,,purchase,2026-03-08 01:25:08.183414,Invalid session_id
+1370,360.0,43,,add_to_cart,2026-02-23 20:13:20.183414,Invalid session_id
+1374,1040.0,753,,add_to_cart,2026-05-23 04:53:06.183414,Invalid session_id
+1379,372.0,1037,,purchase,2025-12-29 17:17:41.183414,Invalid session_id
+1405,86.0,725,,add_to_cart,2025-08-12 20:34:32.183414,Invalid session_id
+1414,630.0,1026,,purchase,2025-11-27 16:54:57.183414,Invalid session_id
+1422,830.0,553,,purchase,2025-07-03 03:24:12.183414,Invalid session_id
+1439,896.0,1195,,purchase,2025-08-16 12:47:10.183414,Invalid session_id
+1447,5.0,18,,add_to_cart,2026-04-22 03:16:19.183414,Invalid session_id
+1486,7.0,403,,add_to_cart,2026-03-20 07:36:16.185418,Invalid session_id
+1495,11.0,526,,purchase,2025-12-07 18:01:11.185418,Invalid session_id
+1519,918.0,747,,add_to_cart,2026-03-12 04:15:32.185418,Invalid session_id
+1530,474.0,416,,add_to_cart,2025-11-23 15:29:14.185418,Invalid session_id
+1539,105.0,353,,view,2025-09-01 16:17:11.185418,Invalid session_id
+1558,374.0,750,,add_to_cart,2026-03-19 14:33:18.185418,Invalid session_id
+1579,243.0,398,,purchase,2026-02-17 00:50:21.185418,Invalid session_id
+1604,321.0,835,,add_to_cart,2026-05-27 20:25:12.185418,Invalid session_id
+1610,1125.0,949,,view,2026-05-16 14:53:21.185418,Invalid session_id
+1619,634.0,651,,purchase,2026-06-04 14:46:31.185418,Invalid session_id
+1635,58.0,55,,purchase,2026-01-21 10:14:37.185418,Invalid session_id
+1673,504.0,48,,view,2025-08-23 04:09:50.185418,Invalid session_id
+1685,485.0,651,,purchase,2026-03-16 17:43:28.185418,Invalid session_id
+1711,895.0,696,,purchase,2026-05-08 09:03:41.186925,Invalid session_id
+1759,85.0,87,,purchase,2025-11-05 06:27:43.186925,Invalid session_id
+1890,421.0,541,,purchase,2025-11-02 22:15:39.186925,Invalid session_id
+1922,673.0,259,,purchase,2025-10-11 22:24:06.186925,Invalid session_id
+1945,262.0,834,,add_to_cart,2025-11-19 22:48:41.186925,Invalid session_id
+1952,1167.0,640,,view,invalid_timestamp,Invalid session_id
+1989,473.0,418,,view,2025-07-14 06:00:58.186925,Invalid session_id
+2054,16.0,575,,view,2025-12-05 01:12:04.186925,Invalid session_id
+2132,1063.0,812,,add_to_cart,2026-03-22 14:12:13.186925,Invalid session_id
+2166,1007.0,1115,,view,2026-04-05 23:18:38.186925,Invalid session_id
+2194,149.0,1190,,view,2025-06-16 16:08:14.186925,Invalid session_id
+2209,898.0,1028,,purchase,2025-12-01 03:35:07.186925,Invalid session_id
+2313,716.0,417,,purchase,2026-05-29 11:45:45.186925,Invalid session_id
+2335,946.0,702,,view,2025-10-13 22:18:32.186925,Invalid session_id
+2341,286.0,994,,purchase,2025-12-15 17:43:14.186925,Invalid session_id
+2354,996.0,143,,purchase,2026-05-13 21:23:27.186925,Invalid session_id
+2356,1043.0,352,,purchase,2025-10-09 03:44:08.186925,Invalid session_id
+2359,400.0,950,,purchase,2025-08-16 21:23:53.186925,Invalid session_id
+2416,964.0,252,,add_to_cart,2026-02-20 06:42:21.186925,Invalid session_id
+2445,873.0,1076,,purchase,2025-12-25 00:42:08.186925,Invalid session_id
+2456,388.0,612,,view,2025-06-13 23:40:25.186925,Invalid session_id
+2459,82.0,897,,view,2026-04-16 19:37:09.186925,Invalid session_id
+2482,1086.0,1000,,add_to_cart,2026-03-13 09:14:54.186925,Invalid session_id
+2494,437.0,1038,,view,2025-10-18 10:09:17.186925,Invalid session_id
+2509,96.0,443,,purchase,2025-09-19 23:20:04.186925,Invalid session_id
+2562,803.0,350,,view,2026-01-06 22:01:01.186925,Invalid session_id
+2564,777.0,47,,add_to_cart,2025-09-11 04:25:01.186925,Invalid session_id
+2591,594.0,931,,view,2025-08-19 01:32:53.186925,Invalid session_id
+2592,601.0,586,,purchase,2026-05-10 15:19:40.186925,Invalid session_id
+2597,410.0,211,,view,2026-01-03 10:46:09.186925,Invalid session_id
+2604,445.0,321,,view,2026-04-29 15:30:32.186925,Invalid session_id
+2619,944.0,414,,view,2026-02-03 03:24:01.186925,Invalid session_id
+2632,591.0,63,,purchase,2025-12-25 20:48:39.186925,Invalid session_id
+2643,466.0,329,,view,2026-06-02 11:08:18.186925,Invalid session_id
+2648,399.0,834,,view,2026-04-29 05:24:19.186925,Invalid session_id
+2651,313.0,386,,add_to_cart,2026-05-16 12:20:14.186925,Invalid session_id
+2751,230.0,612,,purchase,2026-04-23 15:39:06.186925,Invalid session_id
+2755,860.0,1116,,purchase,2025-07-10 20:24:49.186925,Invalid session_id
+2784,214.0,28,,view,2026-04-27 14:17:56.186925,Invalid session_id
+2814,427.0,474,,view,2025-11-21 22:44:39.186925,Invalid session_id
+2826,921.0,869,,add_to_cart,2026-05-05 13:01:11.186925,Invalid session_id
+2834,167.0,1087,,view,2025-07-08 04:57:23.186925,Invalid session_id
+2909,1013.0,526,,purchase,2025-09-08 21:58:16.186925,Invalid session_id
+2910,881.0,1008,,add_to_cart,2026-01-02 22:56:18.186925,Invalid session_id
+2921,259.0,108,,add_to_cart,2025-10-15 15:53:22.186925,Invalid session_id
+2942,198.0,1082,,view,2026-04-30 06:55:33.186925,Invalid session_id
+2943,648.0,37,,purchase,2025-10-10 23:41:45.186925,Invalid session_id
+2962,685.0,832,,add_to_cart,2026-06-05 19:31:13.186925,Invalid session_id
+2970,333.0,323,,view,2026-03-25 04:26:18.186925,Invalid session_id
+2995,45.0,274,,purchase,2026-03-02 01:39:10.186925,Invalid session_id
+3018,377.0,650,,view,2025-12-06 08:24:21.186925,Invalid session_id
+3021,601.0,748,,purchase,2025-11-08 11:26:04.186925,Invalid session_id
+3036,485.0,637,,purchase,2025-07-01 14:56:53.186925,Invalid session_id
+3065,438.0,1169,,purchase,2026-02-12 08:34:00.186925,Invalid session_id
+3099,136.0,136,,view,2026-01-04 07:10:25.186925,Invalid session_id
+3126,1172.0,1046,,add_to_cart,2025-07-08 08:04:10.186925,Invalid session_id
+3154,876.0,1145,,view,2025-08-07 14:39:38.186925,Invalid session_id
+3190,1167.0,729,,add_to_cart,2026-06-07 20:22:00.186925,Invalid session_id
+3204,557.0,988,,add_to_cart,2026-04-29 09:49:42.186925,Invalid session_id
+3221,760.0,920,,add_to_cart,2025-11-24 18:17:26.186925,Invalid session_id
+3222,867.0,954,,add_to_cart,invalid_timestamp,Invalid session_id
+3223,1154.0,220,,view,2025-11-27 09:39:05.186925,Invalid session_id
+3269,1023.0,712,,purchase,2025-11-15 00:23:37.186925,Invalid session_id
+3275,294.0,656,,view,2026-05-19 10:03:12.186925,Invalid session_id
+3281,662.0,365,,add_to_cart,2025-06-27 01:43:48.186925,Invalid session_id
+3305,4.0,803,,purchase,2026-02-25 08:20:23.186925,Invalid session_id
+3328,17.0,418,,add_to_cart,2025-07-31 18:37:26.186925,Invalid session_id
+3372,471.0,854,,view,2025-06-25 18:24:06.186925,Invalid session_id
+3399,37.0,365,,view,2026-05-20 17:31:20.186925,Invalid session_id
+3416,935.0,204,,purchase,2026-03-30 05:19:42.186925,Invalid session_id
+3432,655.0,1108,,view,2025-07-04 11:57:37.186925,Invalid session_id
+3435,784.0,361,,purchase,2026-06-08 16:47:44.186925,Invalid session_id
+3449,431.0,868,,add_to_cart,2025-12-26 19:17:51.186925,Invalid session_id
+3451,947.0,253,,purchase,2026-05-08 03:57:31.186925,Invalid session_id
+3480,704.0,744,,purchase,2025-06-16 22:45:39.186925,Invalid session_id
+3500,23.0,27,,view,2025-10-21 10:16:34.186925,Invalid session_id
+3527,444.0,574,,view,2026-03-16 21:31:18.186925,Invalid session_id
+3532,606.0,889,,add_to_cart,2026-04-03 22:28:33.186925,Invalid session_id
+3536,1171.0,210,,view,2026-02-19 15:49:29.186925,Invalid session_id
+3544,429.0,866,,add_to_cart,2025-11-09 19:40:43.186925,Invalid session_id
+3557,81.0,609,,purchase,2025-06-19 03:57:22.186925,Invalid session_id
+3681,73.0,127,,add_to_cart,2025-07-06 05:15:45.186925,Invalid session_id
+3693,1100.0,681,,add_to_cart,2026-06-07 12:24:51.186925,Invalid session_id
+3708,1071.0,930,,view,2026-02-10 06:26:02.186925,Invalid session_id
+3718,51.0,145,,purchase,2025-06-19 20:20:16.186925,Invalid session_id
+3744,983.0,797,,view,2026-03-17 12:31:00.195433,Invalid session_id
+3762,576.0,831,,add_to_cart,2025-10-05 20:09:52.195433,Invalid session_id
+3763,94.0,667,,add_to_cart,2026-04-23 03:34:25.195433,Invalid session_id
+3794,416.0,692,,purchase,invalid_timestamp,Invalid session_id
+3832,729.0,702,,add_to_cart,2025-06-16 00:45:18.195433,Invalid session_id
+3837,473.0,320,,purchase,2026-03-22 20:03:36.195433,Invalid session_id
+3838,435.0,315,,purchase,invalid_timestamp,Invalid session_id
+3856,7.0,538,,view,2025-12-13 08:13:24.197951,Invalid session_id
+3861,56.0,1016,,purchase,2026-06-11 11:41:45.197951,Invalid session_id
+3945,126.0,108,,add_to_cart,2025-08-27 01:23:22.197951,Invalid session_id
+3957,872.0,1129,,view,2026-04-20 02:50:12.197951,Invalid session_id
+3996,490.0,15,,purchase,2025-11-14 21:52:27.197951,Invalid session_id
+4017,724.0,498,,purchase,2026-01-29 08:06:09.197951,Invalid session_id
+4031,423.0,662,,purchase,2025-12-22 05:04:27.197951,Invalid session_id
+4055,605.0,167,,view,2026-05-20 15:10:10.199974,Invalid session_id
+4072,440.0,582,,view,2025-09-02 17:44:17.199974,Invalid session_id
+4122,1003.0,1076,,purchase,2026-05-05 22:57:05.199974,Invalid session_id
+4143,1016.0,1000,,purchase,2026-03-21 03:45:27.199974,Invalid session_id
+4189,799.0,296,,purchase,2025-08-24 15:17:44.199974,Invalid session_id
+4201,966.0,950,,purchase,2025-12-17 00:28:20.199974,Invalid session_id
+4241,165.0,108,,view,2025-06-28 06:19:14.199974,Invalid session_id
+4299,1189.0,1176,,purchase,2025-11-18 13:29:40.202536,Invalid session_id
+4304,785.0,487,,add_to_cart,2025-07-24 01:22:53.202536,Invalid session_id
+4347,82.0,797,,add_to_cart,2025-07-31 16:31:34.203543,Invalid session_id
+4422,20.0,442,,view,2025-11-22 22:24:45.203543,Invalid session_id
+4427,912.0,185,,view,invalid_timestamp,Invalid session_id
+4430,917.0,284,,view,2025-09-25 10:39:48.203543,Invalid session_id
+4519,150.0,538,,purchase,2025-11-11 12:35:15.203543,Invalid session_id
+4521,150.0,161,,add_to_cart,2025-12-28 13:00:22.203543,Invalid session_id
+4530,669.0,105,,view,2025-11-16 04:16:21.203543,Invalid session_id
+4588,700.0,821,,view,2026-04-21 05:40:10.203543,Invalid session_id
+4602,1115.0,132,,purchase,2026-04-22 12:08:39.207677,Invalid session_id
+4603,1141.0,79,,add_to_cart,2026-02-17 14:02:55.207677,Invalid session_id
+4629,537.0,1027,,view,2025-11-04 23:28:42.207677,Invalid session_id
+4651,229.0,1139,,purchase,2025-10-12 04:50:01.207677,Invalid session_id
+4657,329.0,53,,purchase,2026-02-07 23:36:43.207677,Invalid session_id
+4738,22.0,1055,,purchase,2025-08-21 09:40:10.207677,Invalid session_id
+4743,1021.0,423,,purchase,2025-09-25 13:46:52.209185,Invalid session_id
+4754,571.0,79,,view,invalid_timestamp,Invalid session_id
+4785,912.0,335,,view,2025-09-30 04:46:43.209185,Invalid session_id
+4801,168.0,622,,view,2025-07-07 22:19:06.209185,Invalid session_id
+4810,922.0,896,,purchase,2025-10-06 04:20:52.209185,Invalid session_id
+4878,1167.0,997,,add_to_cart,2026-02-08 05:06:02.209185,Invalid session_id
+4896,1200.0,412,,add_to_cart,2025-06-27 13:51:30.209185,Invalid session_id
+4897,399.0,45,,purchase,2025-08-11 10:47:14.209185,Invalid session_id
+4910,171.0,285,,add_to_cart,2025-12-04 07:18:17.209185,Invalid session_id
+4918,125.0,547,,purchase,2025-09-01 15:54:09.209185,Invalid session_id
+4983,1193.0,777,,purchase,2025-12-15 21:06:20.209185,Invalid session_id
+5012,610.0,675,,purchase,2026-06-06 19:45:42.209185,Invalid session_id
+5030,757.0,154,,purchase,2025-08-20 07:31:49.209185,Invalid session_id
+5032,847.0,843,,view,2025-10-25 05:50:06.209185,Invalid session_id
+5048,778.0,276,,view,2025-12-09 06:46:07.209185,Invalid session_id
+5080,49.0,292,,add_to_cart,2026-04-23 06:19:34.209185,Invalid session_id
+5082,623.0,582,,add_to_cart,2026-03-24 00:12:13.209185,Invalid session_id
+5114,3.0,1045,,view,2025-11-17 00:02:08.209185,Invalid session_id
+5120,849.0,654,,add_to_cart,2025-06-29 15:00:45.209185,Invalid session_id
+5135,505.0,164,,add_to_cart,2026-03-22 03:42:18.209185,Invalid session_id
+5144,908.0,667,,view,2026-03-10 14:50:26.209185,Invalid session_id
+5156,527.0,423,,add_to_cart,2026-05-28 07:53:37.209185,Invalid session_id
+5169,915.0,1131,,view,2025-09-07 07:58:27.209185,Invalid session_id
+5182,844.0,836,,add_to_cart,2026-02-23 01:51:49.209185,Invalid session_id
+5188,881.0,410,,purchase,2026-05-23 04:29:12.209185,Invalid session_id
+5228,26.0,599,,view,2026-05-25 08:41:04.209185,Invalid session_id
+5411,1001.0,408,,purchase,2026-01-06 01:15:34.212022,Invalid session_id
+97,415.0,293,,purchase,2026-02-01 11:36:45.212022,Invalid session_id
+5428,1129.0,844,,add_to_cart,2026-05-10 03:53:31.212022,Invalid session_id
+5437,199.0,486,,view,2026-02-10 05:34:36.212022,Invalid session_id
+5490,880.0,661,,add_to_cart,2025-12-06 16:15:37.212022,Invalid session_id
+5505,35.0,183,,view,2025-06-19 19:33:42.212022,Invalid session_id
+5509,195.0,1103,,purchase,2026-01-19 09:47:00.212022,Invalid session_id
+5524,13.0,185,,add_to_cart,2025-09-26 08:21:27.212022,Invalid session_id
+5602,1178.0,216,,purchase,2025-10-31 01:21:12.212022,Invalid session_id
+5618,71.0,595,,purchase,2026-04-24 14:14:19.212022,Invalid session_id
+5668,630.0,498,,purchase,2025-08-16 12:09:33.212022,Invalid session_id
+5696,680.0,315,,view,2026-03-31 21:51:14.212022,Invalid session_id
+5734,297.0,308,,view,2026-04-10 11:30:54.212022,Invalid session_id
+5738,808.0,408,,purchase,2025-06-11 22:45:40.212022,Invalid session_id
+5746,1040.0,807,,view,2026-06-09 10:17:21.212022,Invalid session_id
+5749,986.0,669,,view,2025-12-23 04:47:00.212022,Invalid session_id
+5761,683.0,593,,view,2025-10-27 20:53:28.212022,Invalid session_id
+5762,1075.0,132,,purchase,2025-09-01 08:45:20.212022,Invalid session_id
+5795,428.0,913,,add_to_cart,2025-12-10 04:58:53.212022,Invalid session_id
+5800,726.0,245,,purchase,2025-10-21 04:15:37.212022,Invalid session_id
+5831,55.0,171,,view,2025-08-29 17:14:46.212022,Invalid session_id
+5877,70.0,513,,add_to_cart,2025-12-02 14:31:07.214026,Invalid session_id
+5897,598.0,2,,view,2026-01-07 22:37:52.214026,Invalid session_id
+5930,847.0,832,,view,2026-04-21 21:07:26.214026,Invalid session_id
+5981,516.0,926,,purchase,invalid_timestamp,Invalid session_id
+6003,583.0,974,,view,2025-09-12 23:48:11.214026,Invalid session_id
+6014,770.0,1101,,view,2025-11-02 20:19:16.214026,Invalid session_id
+6063,149.0,540,,view,2025-11-16 02:10:24.214026,Invalid session_id
+6088,820.0,306,,add_to_cart,2025-12-28 16:22:13.214026,Invalid session_id
+6145,584.0,693,,add_to_cart,2025-06-29 22:16:48.214026,Invalid session_id
+6163,623.0,1083,,view,2025-09-18 20:37:28.214026,Invalid session_id
+6186,298.0,955,,add_to_cart,2025-06-27 22:39:48.214026,Invalid session_id
+6188,872.0,749,,view,2025-12-12 12:38:42.214026,Invalid session_id
+6200,682.0,37,,view,2025-10-18 17:23:29.214026,Invalid session_id
+6215,896.0,317,,add_to_cart,2026-03-25 18:19:00.214026,Invalid session_id
+6225,317.0,912,,add_to_cart,2025-11-03 07:52:18.214026,Invalid session_id
+6232,88.0,449,,purchase,2025-07-30 01:18:11.214026,Invalid session_id
+6233,270.0,1045,,purchase,2026-01-10 06:15:29.214026,Invalid session_id
+6246,66.0,1127,,add_to_cart,2025-11-01 07:37:48.214026,Invalid session_id
+6250,426.0,32,,view,invalid_timestamp,Invalid session_id
+6290,869.0,8,,add_to_cart,2025-08-17 00:15:37.214026,Invalid session_id
+6295,859.0,624,,view,invalid_timestamp,Invalid session_id
+6303,1007.0,1148,,add_to_cart,2026-02-08 19:51:01.214026,Invalid session_id
+6317,467.0,342,,purchase,2025-10-25 02:19:56.214026,Invalid session_id
+6329,485.0,955,,purchase,2025-10-21 22:23:50.214026,Invalid session_id
+6337,735.0,582,,add_to_cart,2025-10-18 00:44:20.214026,Invalid session_id
+6357,866.0,274,,add_to_cart,2026-01-11 23:11:07.214026,Invalid session_id
+6393,376.0,1150,,purchase,2026-05-25 22:11:10.214026,Invalid session_id
+6444,356.0,743,,add_to_cart,2025-12-16 03:31:28.214026,Invalid session_id
+6520,159.0,437,,add_to_cart,2025-07-04 19:35:13.216529,Invalid session_id
+6529,134.0,347,,purchase,2026-04-13 09:35:25.216529,Invalid session_id
+6536,942.0,878,,purchase,2026-05-16 14:13:40.216529,Invalid session_id
+6540,939.0,747,,add_to_cart,2025-06-30 12:19:00.216529,Invalid session_id
+6559,496.0,864,,purchase,2025-09-28 12:54:36.216529,Invalid session_id
+6578,1015.0,239,,purchase,2025-11-30 15:16:11.216529,Invalid session_id
+6589,205.0,473,,purchase,2026-04-26 13:19:15.216529,Invalid session_id
+6638,1081.0,162,,purchase,2025-07-09 16:48:02.216529,Invalid session_id
+6653,932.0,728,,purchase,2026-02-16 09:49:44.216529,Invalid session_id
+6668,53.0,348,,view,invalid_timestamp,Invalid session_id
+6682,827.0,50,,add_to_cart,2026-05-07 02:36:15.216529,Invalid session_id
+6716,541.0,513,,view,2026-03-13 03:30:59.216529,Invalid session_id
+6748,825.0,562,,view,2026-02-22 10:53:57.216529,Invalid session_id
+6752,49.0,741,,purchase,2026-01-29 13:13:37.216529,Invalid session_id
+6756,139.0,603,,purchase,2026-02-26 23:28:23.216529,Invalid session_id
+6856,585.0,1147,,purchase,2026-02-26 01:01:35.216529,Invalid session_id
+6870,300.0,101,,add_to_cart,2026-03-06 04:59:15.216529,Invalid session_id
+6942,87.0,511,,view,2025-11-08 20:59:07.216529,Invalid session_id
+6944,636.0,322,,add_to_cart,2025-10-18 04:08:50.216529,Invalid session_id
+6955,138.0,243,,view,2026-02-13 08:54:11.216529,Invalid session_id
+7045,849.0,1200,,purchase,2025-12-29 05:30:13.218542,Invalid session_id
+7066,967.0,126,,purchase,2025-10-28 12:55:07.218542,Invalid session_id
+7073,835.0,322,,add_to_cart,2026-03-23 13:14:43.218542,Invalid session_id
+7077,291.0,748,,add_to_cart,2026-05-24 22:32:07.218542,Invalid session_id
+7085,380.0,905,,purchase,2026-02-06 13:43:00.218542,Invalid session_id
+7100,325.0,1009,,view,2025-07-08 13:20:26.218542,Invalid session_id
+7114,1040.0,1068,,purchase,2025-11-30 19:04:24.218542,Invalid session_id
+7168,965.0,37,,purchase,2025-10-28 11:52:13.218542,Invalid session_id
+7188,203.0,232,,purchase,2026-04-22 17:37:23.218542,Invalid session_id
+7198,113.0,413,,add_to_cart,2026-03-06 16:43:12.219548,Invalid session_id
+7212,460.0,131,,purchase,2026-05-09 15:43:03.219548,Invalid session_id
+7285,240.0,942,,add_to_cart,2025-08-18 17:20:46.219548,Invalid session_id
+7287,1120.0,436,,view,2025-09-08 23:06:23.219548,Invalid session_id
+7325,641.0,978,,view,invalid_timestamp,Invalid session_id
+7340,421.0,490,,view,2026-05-15 01:28:24.219548,Invalid session_id
+7342,1182.0,1068,,view,2025-08-05 04:26:59.219548,Invalid session_id
+7390,729.0,150,,view,2026-05-18 17:56:53.219548,Invalid session_id
+7487,943.0,15,,purchase,2025-11-26 20:07:34.219548,Invalid session_id
+7517,567.0,416,,add_to_cart,2025-08-09 16:02:55.219548,Invalid session_id
+7573,227.0,1119,,view,2026-02-14 19:40:48.219548,Invalid session_id
+7603,940.0,545,,view,2026-02-18 01:47:06.222317,Invalid session_id
+7644,712.0,535,,purchase,2025-08-09 04:23:02.222317,Invalid session_id
+7675,622.0,626,,view,2026-04-09 16:21:38.222317,Invalid session_id
+7682,535.0,181,,purchase,2025-12-07 20:13:55.222317,Invalid session_id
+7745,555.0,292,,add_to_cart,2026-04-09 01:25:11.222317,Invalid session_id
+7823,628.0,216,,add_to_cart,2025-12-15 10:02:02.222317,Invalid session_id
+7829,974.0,1045,,add_to_cart,2026-03-24 08:06:03.222317,Invalid session_id
+7833,141.0,734,,view,2026-04-27 18:41:08.222317,Invalid session_id
+7865,995.0,275,,purchase,2026-05-31 23:21:14.222317,Invalid session_id
+7914,543.0,16,,view,2026-03-01 01:03:27.222317,Invalid session_id
+7944,13.0,94,,add_to_cart,2025-09-21 04:27:57.222317,Invalid session_id
+7967,1026.0,684,,purchase,2025-08-15 17:37:59.222317,Invalid session_id
+7971,624.0,106,,view,2025-07-28 01:14:26.222317,Invalid session_id
+7974,530.0,1174,,add_to_cart,2025-12-17 21:57:01.222317,Invalid session_id
+8060,196.0,541,,view,2026-01-11 09:31:02.222317,Invalid session_id
+8116,565.0,518,,add_to_cart,2025-11-02 05:15:42.224321,Invalid session_id
+8123,863.0,78,,view,2025-06-11 23:22:25.224321,Invalid session_id
+8173,627.0,1056,,view,2026-05-12 09:22:13.224321,Invalid session_id
+8174,108.0,570,,add_to_cart,2026-01-03 07:11:29.224321,Invalid session_id
+8186,877.0,535,,purchase,invalid_timestamp,Invalid session_id
+8190,136.0,1164,,view,2025-10-02 23:54:14.224321,Invalid session_id
+8214,291.0,1035,,purchase,2025-09-10 21:46:20.224321,Invalid session_id
+8216,351.0,298,,view,invalid_timestamp,Invalid session_id
+8235,836.0,644,,view,2025-11-18 05:13:12.224321,Invalid session_id
+8268,907.0,840,,add_to_cart,2026-05-25 18:57:23.224321,Invalid session_id
+8277,805.0,468,,view,2026-05-26 04:44:48.224321,Invalid session_id
+8286,260.0,1154,,add_to_cart,2025-08-20 03:28:33.224321,Invalid session_id
+8300,397.0,823,,view,2025-12-04 04:25:39.224321,Invalid session_id
+8307,130.0,34,,purchase,2026-02-15 07:30:51.224321,Invalid session_id
+8330,184.0,1197,,purchase,2025-09-25 12:20:29.224321,Invalid session_id
+8333,334.0,753,,add_to_cart,2026-04-10 05:43:25.224321,Invalid session_id
+8339,900.0,737,,purchase,2025-10-15 11:02:23.224321,Invalid session_id
+8341,949.0,354,,purchase,2025-11-01 12:42:58.224321,Invalid session_id
+8391,113.0,447,,purchase,2025-08-13 23:47:37.224321,Invalid session_id
+8405,540.0,1071,,view,2026-05-05 07:41:42.224321,Invalid session_id
+8444,1162.0,353,,purchase,2025-06-22 06:20:00.224321,Invalid session_id
+8457,371.0,1196,,purchase,2026-04-14 15:39:05.224321,Invalid session_id
+8458,789.0,932,,add_to_cart,2026-06-10 06:57:03.224321,Invalid session_id
+8483,967.0,522,,view,2026-02-09 04:19:13.224321,Invalid session_id
+8498,144.0,960,,purchase,2026-01-20 19:18:31.224321,Invalid session_id
+8521,441.0,315,,purchase,2025-09-26 04:39:16.224321,Invalid session_id
+8568,863.0,189,,purchase,2025-12-04 13:30:34.224321,Invalid session_id
+8579,868.0,52,,view,2025-09-10 14:11:01.224321,Invalid session_id
+8582,179.0,1178,,view,2026-02-07 12:33:45.224321,Invalid session_id
+8584,647.0,628,,add_to_cart,2025-12-26 17:02:33.224321,Invalid session_id
+8590,1197.0,252,,view,2026-03-22 02:57:12.224321,Invalid session_id
+8597,1101.0,113,,add_to_cart,2025-06-20 04:22:27.224321,Invalid session_id
+8618,949.0,462,,add_to_cart,2026-05-24 12:48:38.226324,Invalid session_id
+8620,822.0,1056,,view,2026-06-10 02:37:30.226324,Invalid session_id
+8678,755.0,655,,purchase,2026-04-07 14:49:38.226324,Invalid session_id
+8708,385.0,151,,purchase,2025-08-12 20:10:21.226324,Invalid session_id
+8712,980.0,1046,,view,2025-11-08 05:35:04.226324,Invalid session_id
+8729,114.0,576,,purchase,2026-05-03 08:39:22.226324,Invalid session_id
+8742,608.0,260,,add_to_cart,invalid_timestamp,Invalid session_id
+8774,1183.0,16,,purchase,2025-11-06 05:14:27.226324,Invalid session_id
+8790,766.0,150,,add_to_cart,invalid_timestamp,Invalid session_id
+8796,539.0,485,,purchase,2025-09-18 23:10:28.226324,Invalid session_id
+8815,249.0,745,,purchase,2025-07-01 01:33:18.226324,Invalid session_id
+8831,570.0,1036,,purchase,2025-12-28 07:12:59.226324,Invalid session_id
+8837,83.0,418,,purchase,2025-07-09 06:38:05.226324,Invalid session_id
+8861,442.0,229,,view,2026-03-15 02:11:47.226324,Invalid session_id
+8866,300.0,201,,purchase,2026-05-19 19:31:49.226324,Invalid session_id
+8912,331.0,552,,purchase,2025-07-26 03:04:40.226324,Invalid session_id
+8933,775.0,550,,add_to_cart,2025-09-20 01:05:10.226324,Invalid session_id
+8958,31.0,1074,,add_to_cart,2025-07-14 16:44:55.226324,Invalid session_id
+8970,522.0,54,,add_to_cart,2026-01-11 19:12:50.226324,Invalid session_id
+8984,963.0,469,,add_to_cart,2025-10-13 14:10:41.226324,Invalid session_id
+8989,369.0,1200,,add_to_cart,2026-03-19 03:27:38.226324,Invalid session_id
+8993,533.0,436,,purchase,2025-07-10 06:49:25.226324,Invalid session_id
+9063,450.0,733,,purchase,2025-09-24 03:19:11.227826,Invalid session_id
+9083,489.0,429,,add_to_cart,2026-04-25 15:05:27.227826,Invalid session_id
+9110,964.0,999,,purchase,2026-04-08 11:04:16.228610,Invalid session_id
+9126,434.0,898,,add_to_cart,2025-08-04 13:06:24.228610,Invalid session_id
+9130,642.0,162,,purchase,2025-08-03 01:42:18.228610,Invalid session_id
+9136,618.0,753,,purchase,2025-10-04 14:52:09.228610,Invalid session_id
+9137,1021.0,349,,purchase,2026-04-08 05:15:07.228610,Invalid session_id
+9185,670.0,13,,purchase,2025-07-16 11:12:17.228610,Invalid session_id
+9192,868.0,49,,purchase,2025-10-28 14:36:03.228610,Invalid session_id
+9202,1190.0,188,,view,2025-11-22 05:07:57.228610,Invalid session_id
+9237,96.0,45,,add_to_cart,2025-12-20 00:49:00.228610,Invalid session_id
+9262,1020.0,665,,add_to_cart,2025-09-20 10:25:44.228610,Invalid session_id
+9267,294.0,418,,add_to_cart,2026-01-09 13:39:49.228610,Invalid session_id
+9272,251.0,598,,add_to_cart,2026-01-23 15:39:03.228610,Invalid session_id
+9277,320.0,199,,add_to_cart,2025-06-14 05:50:14.228610,Invalid session_id
+9296,910.0,142,,purchase,2025-07-03 00:36:36.228610,Invalid session_id
+9330,1083.0,357,,view,2026-02-17 13:12:41.228610,Invalid session_id
+9345,797.0,1007,,add_to_cart,2025-08-28 13:15:46.228610,Invalid session_id
+9349,97.0,511,,add_to_cart,2026-02-02 09:31:58.228610,Invalid session_id
+9363,946.0,238,,view,2025-10-07 03:41:58.228610,Invalid session_id
+9383,969.0,789,,add_to_cart,2026-05-10 20:15:59.228610,Invalid session_id
+9394,45.0,1022,,purchase,2026-05-23 21:12:04.228610,Invalid session_id
+9440,1125.0,535,,add_to_cart,invalid_timestamp,Invalid session_id
+9448,672.0,980,,view,2026-04-22 03:37:50.228610,Invalid session_id
+9453,304.0,747,,add_to_cart,2026-01-20 17:22:50.228610,Invalid session_id
+9467,422.0,869,,purchase,2025-12-06 06:57:46.228610,Invalid session_id
+9476,494.0,608,,purchase,2025-10-30 08:15:54.228610,Invalid session_id
+9481,971.0,15,,view,2025-12-14 22:59:26.228610,Invalid session_id
+9493,701.0,614,,add_to_cart,2026-04-09 18:04:36.228610,Invalid session_id
+9498,714.0,670,,add_to_cart,2026-05-28 13:45:52.228610,Invalid session_id
+9536,325.0,763,,purchase,2025-09-16 01:05:54.228610,Invalid session_id
+9563,89.0,1061,,view,2026-05-11 21:37:11.228610,Invalid session_id
+9576,608.0,367,,purchase,2026-01-24 21:26:01.228610,Invalid session_id
+9585,1044.0,761,,purchase,2025-09-30 19:12:19.228610,Invalid session_id
+9586,251.0,553,,view,2025-10-25 13:10:55.228610,Invalid session_id
+9589,396.0,1082,,purchase,2025-08-17 06:27:07.228610,Invalid session_id
+9590,1115.0,708,,add_to_cart,2025-08-16 06:29:55.228610,Invalid session_id
+9599,675.0,1168,,view,2026-03-14 07:29:00.228610,Invalid session_id
+9708,963.0,977,,add_to_cart,2025-11-14 23:42:23.228610,Invalid session_id
+9715,796.0,455,,add_to_cart,2025-07-05 23:10:03.228610,Invalid session_id
+9721,884.0,432,,purchase,2025-09-28 21:12:14.228610,Invalid session_id
+9722,1103.0,353,,add_to_cart,2026-01-29 06:51:04.228610,Invalid session_id
+9759,744.0,1061,,add_to_cart,2026-05-26 20:41:30.228610,Invalid session_id
+9764,692.0,1020,,view,2026-02-12 08:46:44.228610,Invalid session_id
+9783,635.0,806,,add_to_cart,2025-10-02 18:49:16.228610,Invalid session_id
+9815,141.0,1044,,view,2026-04-05 14:04:36.228610,Invalid session_id
+9872,333.0,427,,view,2025-10-02 03:18:54.228610,Invalid session_id
+9923,508.0,1014,,purchase,2026-02-21 09:03:09.228610,Invalid session_id
+9925,1173.0,508,,purchase,2025-10-12 22:10:16.228610,Invalid session_id
+9943,452.0,225,,view,2025-12-07 22:32:06.228610,Invalid session_id
+9960,957.0,130,,view,2026-04-06 07:53:06.228610,Invalid session_id
+9993,232.0,49,,view,2026-03-06 01:34:19.228610,Invalid session_id
+9997,1168.0,1041,,view,2025-12-17 18:06:49.228610,Invalid session_id
+10012,732.0,551,,add_to_cart,2025-09-09 09:14:16.228610,Invalid session_id
+10019,984.0,891,,purchase,2025-07-17 19:29:01.228610,Invalid session_id
+10043,595.0,851,,view,2026-01-01 23:15:22.228610,Invalid session_id
+10047,16.0,966,,purchase,2026-02-23 06:55:28.228610,Invalid session_id
+10069,433.0,796,,purchase,2025-12-29 13:04:48.228610,Invalid session_id
+10081,250.0,302,,add_to_cart,2026-01-28 05:16:02.228610,Invalid session_id
+10117,907.0,342,,purchase,2025-06-30 10:22:21.228610,Invalid session_id
+10150,136.0,539,,view,2026-05-22 02:12:46.228610,Invalid session_id
+10230,148.0,1096,,view,2025-09-05 02:28:42.228610,Invalid session_id
+10250,190.0,736,,add_to_cart,2025-08-14 06:11:28.228610,Invalid session_id
+10275,160.0,60,,purchase,2026-06-06 20:44:56.228610,Invalid session_id
+10319,1158.0,716,,add_to_cart,2026-02-21 13:51:33.228610,Invalid session_id
+10325,710.0,996,,view,2026-05-27 11:31:02.228610,Invalid session_id
+10383,1182.0,1045,,purchase,2025-07-06 04:47:43.228610,Invalid session_id
+10385,121.0,1112,,purchase,2025-10-28 01:12:54.228610,Invalid session_id
+10413,328.0,999,,add_to_cart,invalid_timestamp,Invalid session_id
+10439,165.0,1172,,purchase,2026-02-01 07:04:12.228610,Invalid session_id
+10528,325.0,429,,purchase,2026-01-02 07:24:29.228610,Invalid session_id
+10533,848.0,217,,add_to_cart,invalid_timestamp,Invalid session_id
+10580,499.0,67,,add_to_cart,2026-05-11 04:21:53.228610,Invalid session_id
+10588,397.0,448,,purchase,2025-07-25 17:53:22.228610,Invalid session_id
+10602,418.0,761,,view,2025-12-28 05:15:08.228610,Invalid session_id
+10605,1138.0,140,,add_to_cart,2026-05-26 07:45:05.228610,Invalid session_id
+10621,362.0,192,,add_to_cart,2026-03-01 02:48:34.228610,Invalid session_id
+10651,482.0,705,,purchase,2026-01-19 07:50:07.228610,Invalid session_id
+10715,844.0,449,,purchase,2025-09-12 03:27:39.228610,Invalid session_id
+10719,194.0,823,,add_to_cart,2025-08-28 01:33:05.228610,Invalid session_id
+10722,442.0,720,,purchase,2026-02-18 03:56:34.228610,Invalid session_id
+10766,322.0,413,,view,2025-11-23 20:55:00.228610,Invalid session_id
+10844,32.0,352,,purchase,2025-09-04 14:40:00.228610,Invalid session_id
+10879,971.0,569,,purchase,2026-03-14 17:04:35.228610,Invalid session_id
+10914,784.0,628,,purchase,2026-05-04 10:03:04.228610,Invalid session_id
+10918,82.0,482,,view,2026-04-22 23:20:16.228610,Invalid session_id
+10920,355.0,634,,purchase,2026-05-10 03:08:45.228610,Invalid session_id
+10927,377.0,418,,view,2026-01-28 19:09:48.228610,Invalid session_id
+10934,594.0,660,,purchase,2025-12-09 11:42:28.228610,Invalid session_id
+10945,232.0,954,,purchase,2026-06-09 23:41:05.228610,Invalid session_id
+10982,26.0,756,,view,2025-12-26 11:01:25.235934,Invalid session_id
+10983,79.0,644,,purchase,2025-06-20 23:20:06.235934,Invalid session_id
+10999,94.0,985,,add_to_cart,2026-05-18 20:30:35.235934,Invalid session_id
+11029,145.0,351,,view,2026-02-19 03:51:42.235934,Invalid session_id
+11041,684.0,311,,purchase,2025-06-14 18:19:31.235934,Invalid session_id
+11044,632.0,825,,add_to_cart,2026-05-02 05:48:57.235934,Invalid session_id
+11065,1066.0,285,,view,2025-07-07 11:32:44.235934,Invalid session_id
+11066,1114.0,549,,add_to_cart,2025-06-21 17:33:41.235934,Invalid session_id
+11074,334.0,635,,view,2026-02-09 20:09:54.235934,Invalid session_id
+11089,692.0,482,,view,2025-10-14 05:20:55.235934,Invalid session_id
+11095,263.0,361,,add_to_cart,2025-12-30 02:10:00.235934,Invalid session_id
+11097,232.0,844,,view,2025-11-11 10:36:00.235934,Invalid session_id
+11099,844.0,421,,add_to_cart,2026-04-10 00:06:45.235934,Invalid session_id
+11102,983.0,911,,view,2026-01-18 23:15:08.235934,Invalid session_id
+11136,1008.0,1040,,add_to_cart,2025-07-27 09:37:27.235934,Invalid session_id
+11164,690.0,764,,purchase,2025-08-21 23:50:27.235934,Invalid session_id
+11179,1093.0,210,,add_to_cart,2026-04-30 17:57:54.235934,Invalid session_id
+11192,393.0,624,,view,2026-03-13 16:37:43.237113,Invalid session_id
+11203,429.0,530,,add_to_cart,2025-08-15 05:17:33.237113,Invalid session_id
+11226,1111.0,725,,purchase,2025-12-27 10:09:26.237113,Invalid session_id
+11255,485.0,562,,view,2026-03-15 13:44:34.237113,Invalid session_id
+11295,392.0,614,,purchase,2025-12-16 20:37:05.237113,Invalid session_id
+11296,548.0,269,,add_to_cart,2025-06-16 09:37:25.237113,Invalid session_id
+11308,308.0,39,,purchase,2025-06-22 12:05:41.237113,Invalid session_id
+11315,488.0,770,,view,2025-12-31 10:35:14.237113,Invalid session_id
+11334,25.0,419,,purchase,2026-05-02 16:14:52.237113,Invalid session_id
+11444,1126.0,719,,view,2025-11-21 21:11:40.237113,Invalid session_id
+11491,784.0,303,,add_to_cart,2025-07-30 05:33:38.237113,Invalid session_id
+11495,717.0,55,,purchase,2025-12-18 22:03:07.237113,Invalid session_id
+11498,340.0,502,,add_to_cart,2025-10-06 19:06:25.237113,Invalid session_id
+11549,52.0,147,,purchase,2025-11-10 13:37:16.237113,Invalid session_id
+11608,190.0,188,,add_to_cart,2025-10-11 08:56:40.238931,Invalid session_id
+11665,710.0,207,,purchase,2026-01-09 04:18:58.238931,Invalid session_id
+11674,988.0,35,,add_to_cart,2025-06-16 07:34:02.238931,Invalid session_id
+11676,797.0,937,,add_to_cart,2025-08-25 12:58:41.238931,Invalid session_id
+11688,620.0,632,,view,2025-07-27 09:31:24.238931,Invalid session_id
+11689,32.0,422,,add_to_cart,2026-02-26 09:29:59.238931,Invalid session_id
+11720,621.0,41,,add_to_cart,invalid_timestamp,Invalid session_id
+11743,392.0,107,,add_to_cart,2025-11-11 06:12:48.238931,Invalid session_id
+11751,1004.0,651,,add_to_cart,2026-03-27 12:44:39.238931,Invalid session_id
+11752,362.0,540,,view,2026-02-13 15:38:19.238931,Invalid session_id
+11777,1000.0,738,,purchase,2025-08-21 11:08:39.238931,Invalid session_id
+11793,937.0,1147,,add_to_cart,invalid_timestamp,Invalid session_id
+11819,704.0,778,,add_to_cart,2026-02-11 17:00:10.238931,Invalid session_id
+11823,166.0,430,,purchase,2026-04-24 06:34:40.238931,Invalid session_id
+11841,1115.0,323,,view,2026-05-17 18:31:27.238931,Invalid session_id
+11848,1026.0,108,,add_to_cart,2026-05-25 18:39:08.238931,Invalid session_id
+11867,477.0,228,,add_to_cart,2026-01-30 22:39:43.238931,Invalid session_id
+11871,743.0,1108,,purchase,2025-11-21 04:08:14.238931,Invalid session_id
+11880,80.0,306,,add_to_cart,2025-11-24 05:51:01.238931,Invalid session_id
+11930,725.0,612,,add_to_cart,2025-08-03 13:13:46.238931,Invalid session_id
+11939,1076.0,606,,view,2026-04-17 22:11:00.238931,Invalid session_id
+11955,488.0,853,,view,2025-12-08 02:38:10.238931,Invalid session_id
+12011,942.0,922,,purchase,2025-07-31 18:41:44.238931,Invalid session_id
+12015,654.0,728,,add_to_cart,2026-05-22 08:13:28.238931,Invalid session_id
+12018,735.0,145,,view,2025-08-25 00:37:54.238931,Invalid session_id
+12021,1076.0,289,,purchase,2026-05-21 14:27:47.238931,Invalid session_id
+12034,281.0,772,,purchase,2026-04-07 14:42:51.238931,Invalid session_id
+12083,177.0,267,,add_to_cart,2025-08-20 20:20:03.238931,Invalid session_id
+12136,497.0,368,,purchase,2025-08-06 09:17:36.240934,Invalid session_id
+12155,72.0,429,,purchase,2026-04-04 13:58:46.240934,Invalid session_id
+12212,1116.0,698,,add_to_cart,2026-06-08 05:38:23.240934,Invalid session_id
+12231,332.0,1,,purchase,2025-09-05 04:54:25.240934,Invalid session_id
+12235,311.0,824,,purchase,invalid_timestamp,Invalid session_id
+12328,704.0,1163,,add_to_cart,2026-01-03 02:18:59.240934,Invalid session_id
+12359,830.0,465,,view,2025-07-05 13:13:32.240934,Invalid session_id
+12366,529.0,1168,,view,invalid_timestamp,Invalid session_id
+12395,897.0,24,,view,2025-11-21 22:56:23.240934,Invalid session_id
+12438,1058.0,904,,view,2025-06-15 14:29:42.240934,Invalid session_id
+12445,989.0,704,,purchase,2025-11-26 00:50:10.240934,Invalid session_id
+12456,203.0,696,,view,2025-09-03 08:37:32.240934,Invalid session_id
+12458,17.0,832,,add_to_cart,2025-09-23 00:57:46.240934,Invalid session_id
+12464,271.0,328,,add_to_cart,2025-08-19 18:15:34.240934,Invalid session_id
+12483,714.0,274,,view,2025-07-04 19:25:23.240934,Invalid session_id
+12502,1161.0,321,,view,2025-11-03 05:30:29.240934,Invalid session_id
+12507,86.0,798,,view,2025-06-13 05:28:22.240934,Invalid session_id
+12519,1062.0,68,,purchase,2025-11-06 00:18:19.240934,Invalid session_id
+12560,710.0,402,,view,2025-09-21 04:38:11.240934,Invalid session_id
+12571,58.0,1006,,view,2026-02-13 21:48:38.240934,Invalid session_id
+12576,735.0,1191,,view,2025-11-14 23:59:35.240934,Invalid session_id
+12584,819.0,554,,add_to_cart,invalid_timestamp,Invalid session_id
+12629,542.0,811,,add_to_cart,invalid_timestamp,Invalid session_id
+12697,1128.0,340,,view,2025-09-30 23:45:59.242937,Invalid session_id
+12728,570.0,1067,,view,2025-11-01 09:56:27.242937,Invalid session_id
+12734,1196.0,428,,add_to_cart,2025-09-03 23:35:08.242937,Invalid session_id
+12735,338.0,372,,purchase,2025-11-09 09:01:47.242937,Invalid session_id
+12769,61.0,167,,purchase,2025-07-13 05:01:31.242937,Invalid session_id
+12826,1199.0,185,,purchase,2025-10-13 19:40:20.242937,Invalid session_id
+12831,961.0,865,,add_to_cart,invalid_timestamp,Invalid session_id
+12832,643.0,67,,purchase,2026-03-10 01:45:45.242937,Invalid session_id
+12884,147.0,248,,view,2026-04-19 09:14:12.242937,Invalid session_id
+12904,611.0,314,,purchase,2026-04-30 17:17:51.243940,Invalid session_id
+12935,292.0,712,,purchase,2025-10-15 21:29:46.243940,Invalid session_id
+12964,76.0,1103,,view,2026-03-09 09:18:16.243940,Invalid session_id
+12967,636.0,254,,add_to_cart,2026-04-20 00:52:12.243940,Invalid session_id
+12970,162.0,83,,add_to_cart,2025-06-20 21:08:51.243940,Invalid session_id
+12972,159.0,602,,add_to_cart,2026-02-21 16:05:07.243940,Invalid session_id
+12974,453.0,1174,,purchase,2026-06-11 02:51:33.243940,Invalid session_id
+12992,896.0,997,,add_to_cart,2025-07-10 16:14:12.243940,Invalid session_id
+12999,755.0,230,,purchase,2025-08-13 07:00:07.243940,Invalid session_id
+13038,598.0,706,,view,2025-12-20 15:46:55.243940,Invalid session_id
+13073,550.0,173,,add_to_cart,2025-06-16 00:36:09.243940,Invalid session_id
+13076,438.0,756,,purchase,2025-07-25 13:37:34.243940,Invalid session_id
+13099,840.0,920,,purchase,2025-10-21 09:11:28.243940,Invalid session_id
+13123,823.0,184,,purchase,2025-11-28 02:42:52.243940,Invalid session_id
+13125,1119.0,35,,purchase,2025-09-23 21:12:04.245946,Invalid session_id
+13129,1093.0,232,,view,2026-06-11 18:25:25.245946,Invalid session_id
+13133,882.0,870,,add_to_cart,2025-08-26 04:34:07.245946,Invalid session_id
+13137,395.0,56,,add_to_cart,2026-03-13 23:12:34.245946,Invalid session_id
+13243,363.0,767,,add_to_cart,2026-04-25 15:04:46.245946,Invalid session_id
+13249,190.0,190,,purchase,2025-12-19 23:36:00.245946,Invalid session_id
+13262,700.0,86,,purchase,2025-07-15 15:43:54.245946,Invalid session_id
+13273,377.0,892,,add_to_cart,2025-09-21 11:14:08.245946,Invalid session_id
+13278,255.0,622,,purchase,2026-03-28 07:18:35.245946,Invalid session_id
+13291,1120.0,936,,add_to_cart,2026-06-01 03:04:26.245946,Invalid session_id
+13297,1199.0,463,,view,2025-06-16 07:37:09.245946,Invalid session_id
+13325,1139.0,220,,view,2026-02-09 13:22:41.245946,Invalid session_id
+13358,55.0,1026,,add_to_cart,2026-03-29 23:53:40.245946,Invalid session_id
+13380,542.0,678,,add_to_cart,2026-04-10 12:23:50.245946,Invalid session_id
+13388,219.0,1086,,purchase,2025-08-27 20:06:41.245946,Invalid session_id
+13443,850.0,1028,,purchase,2025-10-07 13:19:25.245946,Invalid session_id
+13448,782.0,871,,add_to_cart,2025-12-05 06:43:21.245946,Invalid session_id
+13501,349.0,609,,add_to_cart,2025-07-26 22:51:22.245946,Invalid session_id
+13534,402.0,428,,add_to_cart,2025-10-04 10:40:29.245946,Invalid session_id
+13558,445.0,747,,add_to_cart,2025-09-17 16:22:08.247953,Invalid session_id
+13630,976.0,539,,purchase,2025-10-07 00:09:19.247953,Invalid session_id
+13641,460.0,487,,view,2025-12-21 10:02:17.247953,Invalid session_id
+13647,61.0,1156,,purchase,2026-02-17 09:04:55.247953,Invalid session_id
+13683,229.0,564,,add_to_cart,2026-02-17 12:25:14.247953,Invalid session_id
+13714,820.0,169,,add_to_cart,2026-01-22 16:17:23.247953,Invalid session_id
+13771,557.0,991,,purchase,2025-11-02 14:22:57.247953,Invalid session_id
+13786,917.0,1096,,add_to_cart,2025-10-23 04:38:02.247953,Invalid session_id
+13793,178.0,144,,add_to_cart,2026-04-24 00:34:53.247953,Invalid session_id
+13795,163.0,16,,add_to_cart,2025-09-22 05:13:11.247953,Invalid session_id
+13797,783.0,246,,add_to_cart,2025-11-13 23:35:10.247953,Invalid session_id
+13809,960.0,277,,view,2026-01-02 20:03:05.247953,Invalid session_id
+13865,823.0,118,,add_to_cart,2025-07-22 07:01:12.247953,Invalid session_id
+13876,665.0,1033,,add_to_cart,2025-08-11 17:32:39.247953,Invalid session_id
+13917,595.0,790,,add_to_cart,2025-12-02 22:22:27.247953,Invalid session_id
+13928,681.0,954,,add_to_cart,2026-03-11 12:16:20.247953,Invalid session_id
+14004,1051.0,995,,add_to_cart,2026-04-28 10:10:15.247953,Invalid session_id
+14026,503.0,840,,purchase,2026-03-03 04:07:13.247953,Invalid session_id
+14034,1130.0,847,,view,2026-04-08 14:27:40.247953,Invalid session_id
+14091,619.0,764,,purchase,2025-09-09 22:04:41.249957,Invalid session_id
+14102,983.0,862,,view,2025-09-03 02:21:47.249957,Invalid session_id
+14132,229.0,40,,view,2025-07-24 10:41:35.249957,Invalid session_id
+14186,689.0,511,,purchase,2025-06-21 11:48:46.249957,Invalid session_id
+14208,187.0,611,,purchase,2025-12-16 07:48:02.249957,Invalid session_id
+14251,534.0,401,,purchase,2026-03-30 01:41:32.249957,Invalid session_id
+14254,85.0,41,,add_to_cart,invalid_timestamp,Invalid session_id
+14256,199.0,716,,purchase,2026-03-19 14:31:08.249957,Invalid session_id
+14296,506.0,628,,view,2026-04-15 18:52:11.249957,Invalid session_id
+14309,442.0,474,,view,2025-08-10 12:29:55.249957,Invalid session_id
+14337,1152.0,757,,purchase,2025-10-06 22:20:59.249957,Invalid session_id
+14346,886.0,354,,view,2026-02-06 23:10:03.249957,Invalid session_id
+14347,793.0,353,,add_to_cart,2026-01-31 04:49:52.249957,Invalid session_id
+14393,785.0,1080,,add_to_cart,2026-01-23 08:00:41.249957,Invalid session_id
+14400,515.0,58,,view,2025-11-24 19:56:31.249957,Invalid session_id
+14427,400.0,426,,purchase,2025-10-11 08:10:31.249957,Invalid session_id
+14437,1050.0,215,,purchase,2026-01-16 17:37:31.249957,Invalid session_id
+14450,727.0,278,,purchase,2026-05-08 06:34:07.249957,Invalid session_id
+14488,873.0,488,,purchase,2026-01-27 11:06:10.249957,Invalid session_id
+14495,728.0,734,,purchase,2026-01-03 21:02:18.249957,Invalid session_id
+14532,196.0,5,,view,2026-04-09 16:14:16.249957,Invalid session_id
+14546,86.0,1019,,view,2025-11-28 22:36:11.249957,Invalid session_id
+14566,1009.0,205,,view,2025-07-22 02:33:50.249957,Invalid session_id
+14578,972.0,350,,view,2025-09-23 18:28:35.251960,Invalid session_id
+14719,85.0,116,,add_to_cart,2026-05-28 00:52:43.251960,Invalid session_id
+14722,206.0,944,,add_to_cart,2025-09-10 21:44:46.251960,Invalid session_id
+14733,688.0,486,,purchase,2025-10-01 18:12:17.251960,Invalid session_id
+14744,163.0,194,,view,2026-03-02 02:41:05.251960,Invalid session_id
+14786,323.0,15,,add_to_cart,2025-07-22 10:54:31.251960,Invalid session_id
+14836,883.0,610,,purchase,2025-10-24 12:28:25.251960,Invalid session_id
+14837,615.0,176,,purchase,2026-04-28 11:04:09.251960,Invalid session_id
+14843,719.0,777,,view,2025-11-24 11:45:12.251960,Invalid session_id
+14847,459.0,382,,view,2025-12-14 17:11:34.251960,Invalid session_id
+14848,512.0,523,,view,2025-10-03 07:27:16.251960,Invalid session_id
+14851,906.0,532,,view,2026-03-26 10:37:15.251960,Invalid session_id
+14903,202.0,744,,add_to_cart,2026-05-28 13:43:48.253968,Invalid session_id
+14932,265.0,802,,add_to_cart,2026-03-12 03:29:55.253968,Invalid session_id
+14933,767.0,41,,view,2025-09-11 03:48:06.253968,Invalid session_id
+14967,261.0,885,,add_to_cart,2025-11-26 20:07:41.253968,Invalid session_id
+14987,20.0,640,,view,2026-02-15 01:46:34.254569,Invalid session_id
+8,330.0,818,sess_694,add_to_cart,,Invalid timestamp
+75,44.0,690,sess_503,add_to_cart,,Invalid timestamp
+94,535.0,230,sess_71,add_to_cart,,Invalid timestamp
+120,382.0,596,sess_2537,view,,Invalid timestamp
+142,277.0,941,sess_3843,purchase,,Invalid timestamp
+157,312.0,766,sess_3199,view,,Invalid timestamp
+179,820.0,1070,sess_514,view,,Invalid timestamp
+271,174.0,1073,sess_3117,purchase,,Invalid timestamp
+293,554.0,209,sess_2398,add_to_cart,,Invalid timestamp
+319,831.0,163,sess_1150,add_to_cart,,Invalid timestamp
+329,989.0,790,sess_1605,purchase,,Invalid timestamp
+331,465.0,967,sess_1175,purchase,,Invalid timestamp
+406,601.0,95,sess_2538,add_to_cart,,Invalid timestamp
+435,1197.0,335,sess_3152,purchase,,Invalid timestamp
+530,1018.0,329,sess_2553,add_to_cart,,Invalid timestamp
+579,232.0,63,sess_4388,view,,Invalid timestamp
+591,110.0,885,sess_957,add_to_cart,,Invalid timestamp
+608,61.0,26,sess_3651,view,,Invalid timestamp
+609,947.0,1175,sess_3093,purchase,,Invalid timestamp
+654,2.0,29,sess_50,add_to_cart,,Invalid timestamp
+664,829.0,405,sess_1740,view,,Invalid timestamp
+692,1032.0,823,sess_3629,add_to_cart,,Invalid timestamp
+711,59.0,27,sess_4658,add_to_cart,,Invalid timestamp
+730,360.0,908,sess_730,purchase,,Invalid timestamp
+752,947.0,8,sess_1626,add_to_cart,,Invalid timestamp
+762,894.0,738,sess_2820,purchase,,Invalid timestamp
+765,534.0,284,sess_794,purchase,,Invalid timestamp
+779,168.0,458,sess_1995,purchase,,Invalid timestamp
+825,1096.0,779,sess_3054,view,,Invalid timestamp
+827,108.0,1072,sess_1445,purchase,,Invalid timestamp
+837,399.0,545,sess_2842,purchase,,Invalid timestamp
+849,340.0,1078,sess_3941,purchase,,Invalid timestamp
+853,400.0,594,sess_1972,view,,Invalid timestamp
+854,1087.0,249,sess_1786,view,,Invalid timestamp
+896,8.0,742,sess_1752,purchase,,Invalid timestamp
+897,33.0,902,sess_706,purchase,,Invalid timestamp
+900,389.0,226,sess_2719,purchase,,Invalid timestamp
+910,240.0,914,sess_2058,view,,Invalid timestamp
+1020,572.0,335,sess_4588,view,,Invalid timestamp
+1030,1177.0,190,sess_103,add_to_cart,,Invalid timestamp
+1147,64.0,1082,sess_2874,purchase,,Invalid timestamp
+1164,1065.0,128,sess_2643,add_to_cart,,Invalid timestamp
+1186,851.0,241,sess_112,view,,Invalid timestamp
+1201,852.0,613,sess_4222,purchase,,Invalid timestamp
+1305,100.0,145,sess_4372,add_to_cart,,Invalid timestamp
+1362,1040.0,87,sess_778,purchase,,Invalid timestamp
+1367,582.0,1011,sess_2519,view,,Invalid timestamp
+1389,51.0,524,sess_1342,add_to_cart,,Invalid timestamp
+1390,501.0,197,sess_764,purchase,,Invalid timestamp
+1454,675.0,1136,sess_2092,purchase,,Invalid timestamp
+1472,179.0,80,sess_3723,add_to_cart,,Invalid timestamp
+1514,491.0,916,sess_975,add_to_cart,,Invalid timestamp
+1528,132.0,23,sess_2828,purchase,,Invalid timestamp
+1532,1151.0,403,sess_56,add_to_cart,,Invalid timestamp
+1543,394.0,444,sess_1583,view,,Invalid timestamp
+1603,279.0,521,sess_217,add_to_cart,,Invalid timestamp
+1609,1134.0,642,sess_4659,view,,Invalid timestamp
+1615,1120.0,237,sess_1253,view,,Invalid timestamp
+1620,650.0,736,sess_844,purchase,,Invalid timestamp
+1628,1134.0,773,sess_497,add_to_cart,,Invalid timestamp
+1725,428.0,357,sess_4088,purchase,,Invalid timestamp
+1734,196.0,983,sess_2200,view,,Invalid timestamp
+1762,889.0,648,sess_1441,purchase,,Invalid timestamp
+1791,717.0,609,sess_782,add_to_cart,,Invalid timestamp
+1831,418.0,745,sess_2630,add_to_cart,,Invalid timestamp
+1835,659.0,217,sess_3191,add_to_cart,,Invalid timestamp
+1838,533.0,979,sess_3483,view,,Invalid timestamp
+1841,159.0,1065,sess_2267,view,,Invalid timestamp
+1856,715.0,667,sess_4490,view,,Invalid timestamp
+1869,909.0,952,sess_2975,add_to_cart,,Invalid timestamp
+1894,751.0,763,sess_4508,purchase,,Invalid timestamp
+1896,327.0,487,sess_2123,add_to_cart,,Invalid timestamp
+1935,142.0,239,sess_3701,purchase,,Invalid timestamp
+1942,61.0,633,sess_2166,view,,Invalid timestamp
+2005,61.0,742,sess_349,purchase,,Invalid timestamp
+2013,1182.0,1176,sess_3442,add_to_cart,,Invalid timestamp
+2025,1174.0,267,sess_2814,view,,Invalid timestamp
+2030,1040.0,454,sess_4491,view,,Invalid timestamp
+2071,523.0,937,sess_3949,view,,Invalid timestamp
+2094,1093.0,31,sess_3583,view,,Invalid timestamp
+2111,148.0,763,sess_1358,view,,Invalid timestamp
+2134,416.0,1004,sess_720,purchase,,Invalid timestamp
+2199,604.0,1200,sess_2798,purchase,,Invalid timestamp
+2207,492.0,1138,sess_1224,add_to_cart,,Invalid timestamp
+2283,196.0,47,sess_613,purchase,,Invalid timestamp
+2364,531.0,341,sess_2333,add_to_cart,,Invalid timestamp
+2389,769.0,578,sess_4656,view,,Invalid timestamp
+2404,671.0,729,sess_467,add_to_cart,,Invalid timestamp
+2411,916.0,757,sess_1889,add_to_cart,,Invalid timestamp
+2413,1027.0,194,sess_267,view,,Invalid timestamp
+2520,488.0,67,sess_3664,add_to_cart,,Invalid timestamp
+2536,918.0,806,sess_57,add_to_cart,,Invalid timestamp
+2614,304.0,64,sess_104,purchase,,Invalid timestamp
+2649,938.0,829,sess_4493,add_to_cart,,Invalid timestamp
+2726,309.0,1144,sess_357,purchase,,Invalid timestamp
+2768,249.0,961,sess_125,view,,Invalid timestamp
+2844,505.0,1188,sess_719,view,,Invalid timestamp
+2878,141.0,573,sess_995,view,,Invalid timestamp
+2913,131.0,625,sess_2996,view,,Invalid timestamp
+2937,888.0,1045,sess_3024,view,,Invalid timestamp
+2972,532.0,690,sess_3489,purchase,,Invalid timestamp
+2997,882.0,733,sess_3369,purchase,,Invalid timestamp
+3012,34.0,536,sess_3008,add_to_cart,,Invalid timestamp
+3030,1042.0,832,sess_903,purchase,,Invalid timestamp
+3107,1180.0,840,sess_492,add_to_cart,,Invalid timestamp
+3110,1058.0,404,sess_2942,view,,Invalid timestamp
+3136,531.0,479,sess_2007,view,,Invalid timestamp
+3149,420.0,1169,sess_4742,add_to_cart,,Invalid timestamp
+3158,608.0,149,sess_4079,add_to_cart,,Invalid timestamp
+3194,594.0,774,sess_3908,purchase,,Invalid timestamp
+3216,171.0,577,sess_4721,add_to_cart,,Invalid timestamp
+3217,285.0,210,sess_4705,add_to_cart,,Invalid timestamp
+3247,337.0,1001,sess_3114,purchase,,Invalid timestamp
+3251,1041.0,189,sess_3591,add_to_cart,,Invalid timestamp
+3295,1035.0,275,sess_625,purchase,,Invalid timestamp
+3297,170.0,776,sess_1187,view,,Invalid timestamp
+3324,221.0,370,sess_1234,add_to_cart,,Invalid timestamp
+3360,308.0,743,sess_985,purchase,,Invalid timestamp
+3373,1147.0,109,sess_2123,purchase,,Invalid timestamp
+3382,640.0,602,sess_980,purchase,,Invalid timestamp
+3385,1042.0,284,sess_1627,purchase,,Invalid timestamp
+3433,141.0,295,sess_355,view,,Invalid timestamp
+3445,1099.0,138,sess_752,purchase,,Invalid timestamp
+3454,593.0,152,sess_4623,add_to_cart,,Invalid timestamp
+3492,647.0,838,sess_4302,purchase,,Invalid timestamp
+3558,779.0,764,sess_2184,purchase,,Invalid timestamp
+3575,1121.0,355,sess_2331,add_to_cart,,Invalid timestamp
+3589,663.0,32,sess_4323,view,,Invalid timestamp
+3596,877.0,746,sess_1387,add_to_cart,,Invalid timestamp
+3654,573.0,820,sess_4399,add_to_cart,,Invalid timestamp
+3673,179.0,272,sess_2543,add_to_cart,,Invalid timestamp
+3697,374.0,518,sess_3888,add_to_cart,,Invalid timestamp
+3725,186.0,528,sess_2898,purchase,,Invalid timestamp
+3729,196.0,414,sess_1647,view,,Invalid timestamp
+3751,245.0,16,sess_616,view,,Invalid timestamp
+3754,1093.0,638,sess_4477,view,,Invalid timestamp
+3759,863.0,966,sess_3606,purchase,,Invalid timestamp
+3776,1176.0,711,sess_2767,add_to_cart,,Invalid timestamp
+3800,746.0,1029,sess_798,view,,Invalid timestamp
+3843,892.0,236,sess_1693,view,,Invalid timestamp
+3844,320.0,951,sess_497,view,,Invalid timestamp
+3858,1089.0,115,sess_4461,purchase,,Invalid timestamp
+3918,1112.0,849,sess_902,add_to_cart,,Invalid timestamp
+3941,3.0,555,sess_3360,add_to_cart,,Invalid timestamp
+3999,965.0,779,sess_194,purchase,,Invalid timestamp
+4105,38.0,900,sess_407,view,,Invalid timestamp
+4137,482.0,600,sess_1674,add_to_cart,,Invalid timestamp
+4147,1090.0,1046,sess_2616,view,,Invalid timestamp
+4195,629.0,945,sess_2588,purchase,,Invalid timestamp
+4196,1002.0,242,sess_465,add_to_cart,,Invalid timestamp
+4212,114.0,1139,sess_843,purchase,,Invalid timestamp
+4238,599.0,534,sess_1786,add_to_cart,,Invalid timestamp
+4288,775.0,598,sess_497,add_to_cart,,Invalid timestamp
+4300,352.0,1021,sess_1730,add_to_cart,,Invalid timestamp
+4303,449.0,209,sess_2889,purchase,,Invalid timestamp
+4307,794.0,70,sess_2922,add_to_cart,,Invalid timestamp
+4332,133.0,357,sess_1369,view,,Invalid timestamp
+4358,1057.0,851,sess_317,add_to_cart,,Invalid timestamp
+4369,324.0,1051,sess_455,purchase,,Invalid timestamp
+4376,699.0,703,sess_141,add_to_cart,,Invalid timestamp
+4391,1148.0,751,sess_28,add_to_cart,,Invalid timestamp
+4395,359.0,527,sess_991,add_to_cart,,Invalid timestamp
+4426,257.0,463,sess_71,view,,Invalid timestamp
+4429,327.0,65,sess_4106,purchase,,Invalid timestamp
+4440,734.0,218,sess_1882,purchase,,Invalid timestamp
+4477,316.0,355,sess_4790,add_to_cart,,Invalid timestamp
+4490,612.0,384,sess_533,view,,Invalid timestamp
+4492,578.0,307,sess_179,purchase,,Invalid timestamp
+4495,808.0,14,sess_4846,add_to_cart,,Invalid timestamp
+4506,743.0,539,sess_541,view,,Invalid timestamp
+4556,934.0,93,sess_2546,add_to_cart,,Invalid timestamp
+4597,209.0,825,sess_3767,purchase,,Invalid timestamp
+4606,781.0,769,sess_4439,add_to_cart,,Invalid timestamp
+4634,893.0,540,sess_2046,add_to_cart,,Invalid timestamp
+4639,489.0,397,sess_753,view,,Invalid timestamp
+4677,238.0,561,sess_378,purchase,,Invalid timestamp
+4684,858.0,490,sess_2185,purchase,,Invalid timestamp
+4693,125.0,1095,sess_309,add_to_cart,,Invalid timestamp
+4739,382.0,104,sess_3155,purchase,,Invalid timestamp
+4759,487.0,1117,sess_1985,purchase,,Invalid timestamp
+4772,792.0,635,sess_2547,purchase,,Invalid timestamp
+4797,879.0,939,sess_837,view,,Invalid timestamp
+4798,747.0,78,sess_1769,add_to_cart,,Invalid timestamp
+4825,523.0,398,sess_3042,add_to_cart,,Invalid timestamp
+4829,120.0,15,sess_2623,view,,Invalid timestamp
+4836,236.0,1049,sess_3094,view,,Invalid timestamp
+4859,246.0,446,sess_2073,view,,Invalid timestamp
+4920,936.0,113,sess_804,view,,Invalid timestamp
+4923,949.0,647,sess_4482,purchase,,Invalid timestamp
+4953,327.0,1107,sess_3825,view,,Invalid timestamp
+4955,152.0,352,sess_3189,view,,Invalid timestamp
+4964,436.0,564,sess_3147,add_to_cart,,Invalid timestamp
+5018,859.0,355,sess_1432,add_to_cart,,Invalid timestamp
+5056,1162.0,948,sess_491,add_to_cart,,Invalid timestamp
+5074,513.0,361,sess_2177,view,,Invalid timestamp
+5121,97.0,290,sess_3119,purchase,,Invalid timestamp
+5129,62.0,332,sess_3086,purchase,,Invalid timestamp
+5174,632.0,811,sess_3520,purchase,,Invalid timestamp
+5213,602.0,751,sess_4053,purchase,,Invalid timestamp
+5231,428.0,614,sess_3465,add_to_cart,,Invalid timestamp
+5277,1111.0,112,sess_788,add_to_cart,,Invalid timestamp
+5288,947.0,1105,sess_2977,purchase,,Invalid timestamp
+5293,859.0,129,sess_4176,view,,Invalid timestamp
+5305,359.0,777,sess_1374,add_to_cart,,Invalid timestamp
+5306,716.0,431,sess_4093,view,,Invalid timestamp
+5316,142.0,152,sess_2906,purchase,,Invalid timestamp
+5328,941.0,695,sess_4319,view,,Invalid timestamp
+5359,563.0,691,sess_2016,view,,Invalid timestamp
+5364,565.0,330,sess_2345,add_to_cart,,Invalid timestamp
+5373,510.0,787,sess_1291,add_to_cart,,Invalid timestamp
+5408,323.0,1130,sess_4701,view,,Invalid timestamp
+5426,832.0,984,sess_4417,purchase,,Invalid timestamp
+5434,144.0,416,sess_4109,purchase,,Invalid timestamp
+5448,520.0,115,sess_851,add_to_cart,,Invalid timestamp
+5463,589.0,407,sess_879,purchase,,Invalid timestamp
+5468,1016.0,34,sess_3108,purchase,,Invalid timestamp
+5469,548.0,784,sess_4485,add_to_cart,,Invalid timestamp
+5497,1107.0,609,sess_1317,purchase,,Invalid timestamp
+5545,878.0,1098,sess_2563,add_to_cart,,Invalid timestamp
+5560,284.0,270,sess_3623,purchase,,Invalid timestamp
+5589,466.0,1195,sess_4251,purchase,,Invalid timestamp
+5606,771.0,348,sess_2146,purchase,,Invalid timestamp
+5651,1186.0,89,sess_1728,add_to_cart,,Invalid timestamp
+5702,633.0,648,sess_3201,view,,Invalid timestamp
+5705,791.0,1163,sess_2533,purchase,,Invalid timestamp
+5745,963.0,731,sess_307,view,,Invalid timestamp
+5786,738.0,1100,sess_3265,view,,Invalid timestamp
+5820,234.0,810,sess_3403,add_to_cart,,Invalid timestamp
+5827,246.0,859,sess_797,purchase,,Invalid timestamp
+5839,486.0,989,sess_3714,view,,Invalid timestamp
+5844,640.0,21,sess_4766,add_to_cart,,Invalid timestamp
+5845,615.0,744,sess_35,add_to_cart,,Invalid timestamp
+5847,414.0,1192,sess_4465,purchase,,Invalid timestamp
+5894,321.0,891,sess_2773,add_to_cart,,Invalid timestamp
+5896,116.0,755,sess_3862,add_to_cart,,Invalid timestamp
+5901,959.0,506,sess_527,purchase,,Invalid timestamp
+5912,196.0,1080,sess_2036,purchase,,Invalid timestamp
+5929,815.0,587,sess_2486,view,,Invalid timestamp
+5937,1138.0,125,sess_249,purchase,,Invalid timestamp
+5946,838.0,225,sess_925,view,,Invalid timestamp
+5951,1063.0,1116,sess_3079,add_to_cart,,Invalid timestamp
+5961,1070.0,210,sess_3075,view,,Invalid timestamp
+5986,134.0,484,sess_3995,purchase,,Invalid timestamp
+5995,224.0,423,sess_1300,add_to_cart,,Invalid timestamp
+6026,958.0,386,sess_1599,purchase,,Invalid timestamp
+6041,243.0,522,sess_2939,purchase,,Invalid timestamp
+6059,856.0,433,sess_639,view,,Invalid timestamp
+6060,41.0,60,sess_862,add_to_cart,,Invalid timestamp
+6090,50.0,632,sess_6,purchase,,Invalid timestamp
+6096,105.0,541,sess_1796,view,,Invalid timestamp
+6118,1050.0,277,sess_1798,add_to_cart,,Invalid timestamp
+6121,700.0,1148,sess_4059,add_to_cart,,Invalid timestamp
+6155,212.0,896,sess_464,purchase,,Invalid timestamp
+6193,2.0,735,sess_2284,purchase,,Invalid timestamp
+6201,273.0,693,sess_4756,add_to_cart,,Invalid timestamp
+6205,754.0,149,sess_676,add_to_cart,,Invalid timestamp
+6236,514.0,711,sess_2655,add_to_cart,,Invalid timestamp
+6252,1123.0,434,sess_460,view,,Invalid timestamp
+6279,216.0,596,sess_560,purchase,,Invalid timestamp
+6282,1161.0,635,sess_602,purchase,,Invalid timestamp
+6343,892.0,1188,sess_822,add_to_cart,,Invalid timestamp
+6346,703.0,1057,sess_4706,purchase,,Invalid timestamp
+6368,486.0,92,sess_2579,view,,Invalid timestamp
+6396,1144.0,1131,sess_3246,view,,Invalid timestamp
+6397,236.0,958,sess_635,purchase,,Invalid timestamp
+6437,790.0,536,sess_4758,view,,Invalid timestamp
+6439,795.0,1083,sess_285,add_to_cart,,Invalid timestamp
+6451,890.0,163,sess_3275,add_to_cart,,Invalid timestamp
+6458,463.0,1097,sess_1879,view,,Invalid timestamp
+6460,632.0,926,sess_502,add_to_cart,,Invalid timestamp
+6476,85.0,650,sess_1683,view,,Invalid timestamp
+6494,579.0,231,sess_298,purchase,,Invalid timestamp
+6550,237.0,219,sess_2217,purchase,,Invalid timestamp
+6570,906.0,728,sess_2988,view,,Invalid timestamp
+6597,1177.0,65,sess_3390,purchase,,Invalid timestamp
+6643,846.0,1021,sess_855,view,,Invalid timestamp
+6700,582.0,833,sess_1127,purchase,,Invalid timestamp
+6724,1045.0,344,sess_1033,add_to_cart,,Invalid timestamp
+6726,417.0,188,sess_1526,add_to_cart,,Invalid timestamp
+6727,1143.0,989,sess_3590,add_to_cart,,Invalid timestamp
+6729,341.0,769,sess_1201,view,,Invalid timestamp
+6751,649.0,1088,sess_3196,add_to_cart,,Invalid timestamp
+6760,1113.0,398,sess_3168,purchase,,Invalid timestamp
+6772,172.0,814,sess_3385,add_to_cart,,Invalid timestamp
+6780,385.0,589,sess_97,add_to_cart,,Invalid timestamp
+6791,787.0,623,sess_1595,add_to_cart,,Invalid timestamp
+6796,368.0,551,sess_1462,view,,Invalid timestamp
+6811,550.0,80,sess_4008,view,,Invalid timestamp
+6861,68.0,1157,sess_2642,purchase,,Invalid timestamp
+6873,560.0,945,sess_806,add_to_cart,,Invalid timestamp
+6891,1169.0,1008,sess_2725,purchase,,Invalid timestamp
+6920,208.0,157,sess_3744,purchase,,Invalid timestamp
+6930,460.0,37,sess_2880,purchase,,Invalid timestamp
+6952,59.0,608,sess_842,add_to_cart,,Invalid timestamp
+6954,771.0,568,sess_4103,view,,Invalid timestamp
+6961,719.0,190,sess_1056,view,,Invalid timestamp
+6971,787.0,471,sess_3080,view,,Invalid timestamp
+6979,1167.0,981,sess_2383,view,,Invalid timestamp
+6991,1097.0,872,sess_3709,add_to_cart,,Invalid timestamp
+6996,522.0,1151,sess_3254,purchase,,Invalid timestamp
+7008,1127.0,1166,sess_1877,add_to_cart,,Invalid timestamp
+7013,746.0,983,sess_4221,add_to_cart,,Invalid timestamp
+7039,1059.0,369,sess_2095,purchase,,Invalid timestamp
+7067,337.0,1182,sess_3111,purchase,,Invalid timestamp
+7088,373.0,355,sess_4634,add_to_cart,,Invalid timestamp
+7108,493.0,36,sess_4728,purchase,,Invalid timestamp
+7110,662.0,336,sess_2974,add_to_cart,,Invalid timestamp
+7118,1131.0,633,sess_4671,view,,Invalid timestamp
+7119,196.0,228,sess_2682,purchase,,Invalid timestamp
+7173,1167.0,524,sess_4586,add_to_cart,,Invalid timestamp
+7214,1134.0,949,sess_4299,view,,Invalid timestamp
+7286,550.0,1198,sess_4471,view,,Invalid timestamp
+7297,320.0,318,sess_4010,purchase,,Invalid timestamp
+7331,571.0,1094,sess_2790,purchase,,Invalid timestamp
+7343,336.0,615,sess_4436,add_to_cart,,Invalid timestamp
+7382,545.0,276,sess_3931,view,,Invalid timestamp
+7435,296.0,146,sess_3402,purchase,,Invalid timestamp
+7448,132.0,588,sess_1686,add_to_cart,,Invalid timestamp
+7480,30.0,40,sess_120,view,,Invalid timestamp
+7482,213.0,782,sess_2084,add_to_cart,,Invalid timestamp
+7484,1123.0,461,sess_397,purchase,,Invalid timestamp
+7526,826.0,397,sess_3977,view,,Invalid timestamp
+7528,800.0,483,sess_3024,purchase,,Invalid timestamp
+7540,1012.0,886,sess_4396,view,,Invalid timestamp
+7565,903.0,51,sess_2789,add_to_cart,,Invalid timestamp
+7567,25.0,387,sess_3055,view,,Invalid timestamp
+7590,1092.0,191,sess_2321,add_to_cart,,Invalid timestamp
+7593,441.0,766,sess_330,view,,Invalid timestamp
+7616,1177.0,1105,sess_3574,add_to_cart,,Invalid timestamp
+7618,984.0,1081,sess_948,purchase,,Invalid timestamp
+7624,113.0,214,sess_3828,purchase,,Invalid timestamp
+7631,956.0,814,sess_877,view,,Invalid timestamp
+7683,144.0,839,sess_1633,view,,Invalid timestamp
+7753,567.0,1000,sess_450,purchase,,Invalid timestamp
+7760,13.0,1193,sess_1111,add_to_cart,,Invalid timestamp
+7821,272.0,86,sess_2225,add_to_cart,,Invalid timestamp
+7836,1125.0,38,sess_1265,purchase,,Invalid timestamp
+7847,927.0,409,sess_1189,view,,Invalid timestamp
+7861,849.0,840,sess_4960,add_to_cart,,Invalid timestamp
+7895,553.0,1099,sess_2103,add_to_cart,,Invalid timestamp
+7934,925.0,116,sess_1909,view,,Invalid timestamp
+7936,1168.0,363,sess_1803,view,,Invalid timestamp
+7969,704.0,1105,sess_3727,view,,Invalid timestamp
+7978,268.0,268,sess_4051,view,,Invalid timestamp
+7984,636.0,1182,sess_4673,purchase,,Invalid timestamp
+7997,364.0,934,sess_3182,purchase,,Invalid timestamp
+8007,510.0,294,sess_721,add_to_cart,,Invalid timestamp
+8078,948.0,561,sess_2030,view,,Invalid timestamp
+8082,852.0,11,sess_2102,purchase,,Invalid timestamp
+8093,1041.0,89,sess_1410,view,,Invalid timestamp
+8108,1056.0,130,sess_1197,view,,Invalid timestamp
+8119,916.0,666,sess_945,view,,Invalid timestamp
+8188,163.0,307,sess_3244,view,,Invalid timestamp
+8224,780.0,957,sess_3802,purchase,,Invalid timestamp
+8232,139.0,656,sess_2491,view,,Invalid timestamp
+8239,666.0,1079,sess_3946,purchase,,Invalid timestamp
+8292,979.0,539,sess_1972,add_to_cart,,Invalid timestamp
+8343,795.0,624,sess_2314,view,,Invalid timestamp
+8386,867.0,752,sess_185,add_to_cart,,Invalid timestamp
+8424,261.0,39,sess_1522,view,,Invalid timestamp
+8430,420.0,804,sess_2651,add_to_cart,,Invalid timestamp
+8440,63.0,1099,sess_2023,purchase,,Invalid timestamp
+8534,313.0,773,sess_3905,view,,Invalid timestamp
+8535,347.0,38,sess_2250,view,,Invalid timestamp
+8559,226.0,1054,sess_1457,view,,Invalid timestamp
+8591,1092.0,989,sess_491,view,,Invalid timestamp
+8598,646.0,196,sess_1205,purchase,,Invalid timestamp
+8610,520.0,1096,sess_603,purchase,,Invalid timestamp
+8612,976.0,1007,sess_107,purchase,,Invalid timestamp
+8653,198.0,370,sess_1951,add_to_cart,,Invalid timestamp
+8664,1199.0,248,sess_2301,view,,Invalid timestamp
+8681,788.0,888,sess_2464,view,,Invalid timestamp
+8710,210.0,930,sess_877,add_to_cart,,Invalid timestamp
+8746,159.0,33,sess_4200,add_to_cart,,Invalid timestamp
+8767,1156.0,975,sess_3336,add_to_cart,,Invalid timestamp
+8826,478.0,1113,sess_767,purchase,,Invalid timestamp
+8862,861.0,970,sess_4424,view,,Invalid timestamp
+8890,861.0,407,sess_1075,add_to_cart,,Invalid timestamp
+8901,276.0,780,sess_2927,purchase,,Invalid timestamp
+8951,620.0,145,sess_2467,view,,Invalid timestamp
+8967,1056.0,39,sess_3953,purchase,,Invalid timestamp
+9031,1011.0,950,sess_476,purchase,,Invalid timestamp
+9068,142.0,1046,sess_4030,view,,Invalid timestamp
+9071,10.0,1072,sess_4752,view,,Invalid timestamp
+9100,627.0,93,sess_3343,add_to_cart,,Invalid timestamp
+9131,960.0,9,sess_1379,purchase,,Invalid timestamp
+9138,944.0,249,sess_4889,view,,Invalid timestamp
+9168,739.0,432,sess_639,purchase,,Invalid timestamp
+9228,97.0,206,sess_2735,purchase,,Invalid timestamp
+9235,892.0,636,sess_2213,view,,Invalid timestamp
+9249,685.0,1092,sess_798,view,,Invalid timestamp
+9256,73.0,36,sess_3853,view,,Invalid timestamp
+9261,928.0,352,sess_2806,purchase,,Invalid timestamp
+9268,56.0,1035,sess_143,view,,Invalid timestamp
+9303,454.0,1008,sess_2566,add_to_cart,,Invalid timestamp
+9308,610.0,4,sess_2956,add_to_cart,,Invalid timestamp
+9320,359.0,315,sess_2741,purchase,,Invalid timestamp
+9346,372.0,298,sess_1687,add_to_cart,,Invalid timestamp
+9378,94.0,633,sess_3017,add_to_cart,,Invalid timestamp
+9382,434.0,406,sess_421,add_to_cart,,Invalid timestamp
+9396,538.0,1129,sess_4538,add_to_cart,,Invalid timestamp
+9470,1134.0,359,sess_2849,purchase,,Invalid timestamp
+9472,228.0,205,sess_2201,view,,Invalid timestamp
+9497,875.0,1155,sess_1206,view,,Invalid timestamp
+9515,805.0,106,sess_2369,purchase,,Invalid timestamp
+9521,842.0,749,sess_1274,purchase,,Invalid timestamp
+9560,673.0,131,sess_41,view,,Invalid timestamp
+9568,917.0,137,sess_673,view,,Invalid timestamp
+9600,647.0,584,sess_3236,add_to_cart,,Invalid timestamp
+9635,38.0,763,sess_3000,view,,Invalid timestamp
+9638,947.0,94,sess_2874,view,,Invalid timestamp
+9669,1029.0,1087,sess_33,view,,Invalid timestamp
+9692,527.0,264,sess_1315,view,,Invalid timestamp
+9709,535.0,80,sess_3700,add_to_cart,,Invalid timestamp
+9756,192.0,795,sess_2610,view,,Invalid timestamp
+9763,865.0,999,sess_3199,purchase,,Invalid timestamp
+9768,1108.0,37,sess_855,view,,Invalid timestamp
+9786,903.0,896,sess_1959,add_to_cart,,Invalid timestamp
+9809,672.0,255,sess_326,view,,Invalid timestamp
+9822,993.0,572,sess_3791,purchase,,Invalid timestamp
+9838,188.0,521,sess_1005,add_to_cart,,Invalid timestamp
+9870,818.0,1094,sess_358,add_to_cart,,Invalid timestamp
+9876,860.0,240,sess_1567,add_to_cart,,Invalid timestamp
+9905,754.0,464,sess_2761,purchase,,Invalid timestamp
+9928,448.0,1125,sess_4855,purchase,,Invalid timestamp
+9930,993.0,1177,sess_2895,view,,Invalid timestamp
+9934,1172.0,876,sess_2975,add_to_cart,,Invalid timestamp
+9948,1034.0,943,sess_3959,add_to_cart,,Invalid timestamp
+9978,243.0,610,sess_2912,purchase,,Invalid timestamp
+10039,81.0,735,sess_1755,add_to_cart,,Invalid timestamp
+10044,264.0,25,sess_2293,view,,Invalid timestamp
+10050,742.0,208,sess_4563,add_to_cart,,Invalid timestamp
+10063,936.0,161,sess_4517,purchase,,Invalid timestamp
+10129,490.0,217,sess_824,view,,Invalid timestamp
+10217,889.0,504,sess_2342,view,,Invalid timestamp
+10225,365.0,470,sess_4015,add_to_cart,,Invalid timestamp
+10244,580.0,423,sess_2860,purchase,,Invalid timestamp
+10247,1011.0,744,sess_533,purchase,,Invalid timestamp
+10305,1189.0,269,sess_2054,purchase,,Invalid timestamp
+10348,561.0,112,sess_1448,view,,Invalid timestamp
+10360,82.0,657,sess_743,add_to_cart,,Invalid timestamp
+10424,692.0,590,sess_2314,add_to_cart,,Invalid timestamp
+10448,609.0,380,sess_1078,purchase,,Invalid timestamp
+10459,937.0,240,sess_4861,add_to_cart,,Invalid timestamp
+10486,1184.0,1081,sess_3168,add_to_cart,,Invalid timestamp
+10498,266.0,1165,sess_2831,add_to_cart,,Invalid timestamp
+10520,387.0,618,sess_2387,purchase,,Invalid timestamp
+10543,140.0,129,sess_2166,add_to_cart,,Invalid timestamp
+10573,817.0,803,sess_2327,purchase,,Invalid timestamp
+10583,709.0,214,sess_1323,add_to_cart,,Invalid timestamp
+10590,429.0,844,sess_4266,view,,Invalid timestamp
+10695,288.0,926,sess_2298,add_to_cart,,Invalid timestamp
+10733,79.0,513,sess_2616,add_to_cart,,Invalid timestamp
+10749,244.0,799,sess_2662,purchase,,Invalid timestamp
+10755,74.0,914,sess_876,add_to_cart,,Invalid timestamp
+10801,1069.0,710,sess_552,add_to_cart,,Invalid timestamp
+10809,613.0,339,sess_3068,view,,Invalid timestamp
+10825,712.0,1194,sess_3175,purchase,,Invalid timestamp
+10839,800.0,705,sess_964,add_to_cart,,Invalid timestamp
+10840,676.0,1102,sess_4679,purchase,,Invalid timestamp
+10852,761.0,463,sess_3742,view,,Invalid timestamp
+10866,631.0,17,sess_2191,purchase,,Invalid timestamp
+10873,804.0,646,sess_2163,purchase,,Invalid timestamp
+10880,371.0,665,sess_3382,view,,Invalid timestamp
+10903,302.0,285,sess_1860,purchase,,Invalid timestamp
+10907,353.0,769,sess_4455,add_to_cart,,Invalid timestamp
+10930,916.0,256,sess_3612,add_to_cart,,Invalid timestamp
+10949,185.0,1079,sess_4001,add_to_cart,,Invalid timestamp
+10959,692.0,355,sess_616,add_to_cart,,Invalid timestamp
+10981,375.0,457,sess_2854,view,,Invalid timestamp
+10990,699.0,759,sess_3215,purchase,,Invalid timestamp
+10992,383.0,290,sess_248,purchase,,Invalid timestamp
+11008,20.0,791,sess_2805,purchase,,Invalid timestamp
+11012,973.0,853,sess_678,view,,Invalid timestamp
+11046,924.0,507,sess_4642,add_to_cart,,Invalid timestamp
+11052,60.0,652,sess_197,add_to_cart,,Invalid timestamp
+11154,886.0,1036,sess_451,view,,Invalid timestamp
+11195,1134.0,476,sess_1241,add_to_cart,,Invalid timestamp
+11277,404.0,158,sess_4311,purchase,,Invalid timestamp
+11329,19.0,1046,sess_89,add_to_cart,,Invalid timestamp
+11335,69.0,702,sess_4342,purchase,,Invalid timestamp
+11355,815.0,987,sess_3332,add_to_cart,,Invalid timestamp
+11415,281.0,1089,sess_2772,view,,Invalid timestamp
+11420,328.0,700,sess_2841,purchase,,Invalid timestamp
+11465,409.0,1166,sess_928,purchase,,Invalid timestamp
+11493,953.0,790,sess_4976,add_to_cart,,Invalid timestamp
+11506,695.0,1038,sess_2599,purchase,,Invalid timestamp
+11520,852.0,1001,sess_1217,purchase,,Invalid timestamp
+11541,1122.0,1010,sess_3477,purchase,,Invalid timestamp
+11542,187.0,653,sess_367,purchase,,Invalid timestamp
+11543,443.0,84,sess_3960,purchase,,Invalid timestamp
+11569,718.0,211,sess_3722,purchase,,Invalid timestamp
+11577,570.0,960,sess_851,add_to_cart,,Invalid timestamp
+11601,276.0,655,sess_3542,add_to_cart,,Invalid timestamp
+11605,59.0,271,sess_4110,purchase,,Invalid timestamp
+11700,133.0,1100,sess_1698,view,,Invalid timestamp
+11727,137.0,88,sess_4919,add_to_cart,,Invalid timestamp
+11744,170.0,38,sess_1594,purchase,,Invalid timestamp
+11758,1185.0,327,sess_4060,add_to_cart,,Invalid timestamp
+11767,582.0,246,sess_3620,purchase,,Invalid timestamp
+11785,1103.0,425,sess_1750,purchase,,Invalid timestamp
+11787,612.0,712,sess_3593,purchase,,Invalid timestamp
+11811,55.0,247,sess_179,purchase,,Invalid timestamp
+11815,244.0,1057,sess_4844,purchase,,Invalid timestamp
+11833,228.0,191,sess_3670,purchase,,Invalid timestamp
+11847,1063.0,743,sess_3985,purchase,,Invalid timestamp
+11885,1003.0,400,sess_2495,purchase,,Invalid timestamp
+11911,810.0,143,sess_2804,add_to_cart,,Invalid timestamp
+11912,670.0,1161,sess_2386,purchase,,Invalid timestamp
+11915,863.0,21,sess_4773,add_to_cart,,Invalid timestamp
+11927,314.0,814,sess_4336,add_to_cart,,Invalid timestamp
+11962,487.0,785,sess_3862,view,,Invalid timestamp
+11984,916.0,878,sess_3492,view,,Invalid timestamp
+11995,687.0,1044,sess_1501,add_to_cart,,Invalid timestamp
+11999,249.0,969,sess_1691,view,,Invalid timestamp
+12073,145.0,654,sess_3030,add_to_cart,,Invalid timestamp
+12075,550.0,805,sess_2496,purchase,,Invalid timestamp
+12122,538.0,805,sess_454,purchase,,Invalid timestamp
+12183,1185.0,347,sess_2707,purchase,,Invalid timestamp
+12196,1107.0,768,sess_140,add_to_cart,,Invalid timestamp
+12221,774.0,730,sess_2356,add_to_cart,,Invalid timestamp
+12240,501.0,292,sess_2215,view,,Invalid timestamp
+12293,115.0,463,sess_482,view,,Invalid timestamp
+12296,301.0,154,sess_3718,view,,Invalid timestamp
+12305,808.0,682,sess_2402,view,,Invalid timestamp
+12306,877.0,357,sess_3480,purchase,,Invalid timestamp
+12353,189.0,925,sess_2707,add_to_cart,,Invalid timestamp
+12383,1065.0,764,sess_5000,view,,Invalid timestamp
+12424,515.0,1082,sess_2990,purchase,,Invalid timestamp
+12471,458.0,906,sess_4154,purchase,,Invalid timestamp
+12478,267.0,971,sess_3235,view,,Invalid timestamp
+12575,1030.0,932,sess_4362,add_to_cart,,Invalid timestamp
+12650,702.0,589,sess_3057,view,,Invalid timestamp
+12652,873.0,759,sess_1198,add_to_cart,,Invalid timestamp
+12662,671.0,1089,sess_3504,purchase,,Invalid timestamp
+12671,21.0,432,sess_2758,add_to_cart,,Invalid timestamp
+12681,54.0,141,sess_1702,add_to_cart,,Invalid timestamp
+12737,772.0,245,sess_857,add_to_cart,,Invalid timestamp
+12778,741.0,107,sess_3376,purchase,,Invalid timestamp
+12827,14.0,338,sess_991,add_to_cart,,Invalid timestamp
+12883,133.0,1198,sess_2251,view,,Invalid timestamp
+12895,513.0,99,sess_3470,view,,Invalid timestamp
+12903,400.0,227,sess_3077,purchase,,Invalid timestamp
+12910,714.0,521,sess_2680,view,,Invalid timestamp
+12915,216.0,380,sess_4742,purchase,,Invalid timestamp
+12920,120.0,71,sess_3940,view,,Invalid timestamp
+12936,1085.0,1145,sess_3075,purchase,,Invalid timestamp
+12991,843.0,164,sess_4599,purchase,,Invalid timestamp
+13035,108.0,1178,sess_3596,purchase,,Invalid timestamp
+13057,400.0,311,sess_4098,add_to_cart,,Invalid timestamp
+13085,1068.0,10,sess_2082,view,,Invalid timestamp
+13119,303.0,516,sess_2329,add_to_cart,,Invalid timestamp
+13149,494.0,7,sess_275,add_to_cart,,Invalid timestamp
+13156,842.0,448,sess_709,add_to_cart,,Invalid timestamp
+13173,400.0,687,sess_735,add_to_cart,,Invalid timestamp
+13192,1045.0,695,sess_4855,view,,Invalid timestamp
+13204,730.0,58,sess_750,purchase,,Invalid timestamp
+13222,399.0,956,sess_1607,add_to_cart,,Invalid timestamp
+13227,378.0,204,sess_4470,purchase,,Invalid timestamp
+13237,907.0,1159,sess_3738,add_to_cart,,Invalid timestamp
+13251,724.0,391,sess_1841,add_to_cart,,Invalid timestamp
+13253,159.0,760,sess_290,purchase,,Invalid timestamp
+13255,603.0,42,sess_821,view,,Invalid timestamp
+13287,417.0,338,sess_4680,add_to_cart,,Invalid timestamp
+13309,362.0,1008,sess_3542,view,,Invalid timestamp
+13326,925.0,594,sess_4800,purchase,,Invalid timestamp
+13333,247.0,1102,sess_4976,add_to_cart,,Invalid timestamp
+13348,443.0,1144,sess_622,view,,Invalid timestamp
+13386,645.0,626,sess_1203,view,,Invalid timestamp
+13445,549.0,721,sess_3992,add_to_cart,,Invalid timestamp
+13472,419.0,477,sess_3580,view,,Invalid timestamp
+13513,752.0,958,sess_612,view,,Invalid timestamp
+13565,525.0,638,sess_1346,purchase,,Invalid timestamp
+13631,1052.0,243,sess_358,add_to_cart,,Invalid timestamp
+13655,791.0,481,sess_821,purchase,,Invalid timestamp
+13668,1137.0,730,sess_138,purchase,,Invalid timestamp
+13682,151.0,1146,sess_1771,purchase,,Invalid timestamp
+13687,703.0,859,sess_952,purchase,,Invalid timestamp
+13717,1125.0,753,sess_3476,add_to_cart,,Invalid timestamp
+13728,894.0,839,sess_1486,view,,Invalid timestamp
+13751,37.0,849,sess_2013,add_to_cart,,Invalid timestamp
+13760,448.0,779,sess_4,add_to_cart,,Invalid timestamp
+13765,980.0,353,sess_3653,add_to_cart,,Invalid timestamp
+13766,901.0,186,sess_2849,view,,Invalid timestamp
+13778,737.0,1106,sess_1042,add_to_cart,,Invalid timestamp
+13783,87.0,808,sess_4103,purchase,,Invalid timestamp
+13796,313.0,18,sess_92,add_to_cart,,Invalid timestamp
+13808,125.0,541,sess_1758,purchase,,Invalid timestamp
+13812,563.0,752,sess_4054,purchase,,Invalid timestamp
+13820,1122.0,742,sess_1037,add_to_cart,,Invalid timestamp
+13827,850.0,404,sess_180,purchase,,Invalid timestamp
+13927,73.0,474,sess_4910,view,,Invalid timestamp
+13951,317.0,861,sess_1357,view,,Invalid timestamp
+13970,503.0,113,sess_4516,add_to_cart,,Invalid timestamp
+13992,120.0,220,sess_4940,add_to_cart,,Invalid timestamp
+14025,729.0,1046,sess_2965,add_to_cart,,Invalid timestamp
+14056,73.0,667,sess_4107,purchase,,Invalid timestamp
+14089,990.0,465,sess_884,view,,Invalid timestamp
+14094,4.0,950,sess_2507,view,,Invalid timestamp
+14097,871.0,1160,sess_1826,purchase,,Invalid timestamp
+14131,480.0,318,sess_4054,add_to_cart,,Invalid timestamp
+14148,144.0,1088,sess_2165,purchase,,Invalid timestamp
+14182,985.0,205,sess_4756,add_to_cart,,Invalid timestamp
+14238,710.0,410,sess_4555,add_to_cart,,Invalid timestamp
+14290,1050.0,659,sess_2634,purchase,,Invalid timestamp
+14300,537.0,660,sess_2839,add_to_cart,,Invalid timestamp
+14302,1142.0,741,sess_3315,view,,Invalid timestamp
+14306,925.0,172,sess_147,purchase,,Invalid timestamp
+14311,1164.0,1093,sess_649,add_to_cart,,Invalid timestamp
+14322,926.0,315,sess_933,view,,Invalid timestamp
+14335,760.0,197,sess_1275,purchase,,Invalid timestamp
+14373,648.0,1180,sess_3507,add_to_cart,,Invalid timestamp
+14408,1043.0,136,sess_4194,add_to_cart,,Invalid timestamp
+14444,966.0,497,sess_3037,purchase,,Invalid timestamp
+14453,1137.0,513,sess_4895,purchase,,Invalid timestamp
+14501,940.0,1149,sess_3312,view,,Invalid timestamp
+14553,423.0,212,sess_184,purchase,,Invalid timestamp
+14600,791.0,369,sess_1202,view,,Invalid timestamp
+14625,277.0,650,sess_3897,add_to_cart,,Invalid timestamp
+14659,451.0,1178,sess_536,view,,Invalid timestamp
+14677,236.0,745,sess_3222,add_to_cart,,Invalid timestamp
+14678,1163.0,503,sess_3688,view,,Invalid timestamp
+14699,782.0,584,sess_1000,purchase,,Invalid timestamp
+14710,428.0,701,sess_3761,purchase,,Invalid timestamp
+14746,441.0,249,sess_816,view,,Invalid timestamp
+14760,547.0,1021,sess_2193,purchase,,Invalid timestamp
+14796,972.0,913,sess_221,view,,Invalid timestamp
+14810,876.0,828,sess_3989,purchase,,Invalid timestamp
+14876,919.0,717,sess_1619,purchase,,Invalid timestamp
+14922,333.0,687,sess_2360,purchase,,Invalid timestamp
+14958,606.0,740,sess_2384,view,,Invalid timestamp
